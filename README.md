@@ -8,6 +8,13 @@ Omissions and mistakes may exist in the review. Welcome to exchange and opinions
 
 整理之中或存在疏漏与错误，欢迎大家交流与补充！
 
+* [Chinese Event Extraction](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#chinese-event-detection)
+* [Open-Domain EE](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#open-domain-event-extraction)
+* [Event Data Generation](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#data-generation)
+* [Multi-Lingual](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#multi-lingual)
+* [FewShot & ZeroShot](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#few-shot--zero-shot)
+* [https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#semi-supervised](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#semi-supervised)
+
 
 ## 2015
 * ACL2015: **Event Extraction via Dynamic Multi-Pooling Convolutional Neural Networks**
