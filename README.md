@@ -150,7 +150,7 @@ https://arxiv.org/pdf/1712.03665.pdf)
     * Code: [https://github.com/sanmusunrise/NPNs](https://github.com/sanmusunrise/NPNs)
 
 * ACL2018: **Zero-Shot Transfer Learning for Event Extraction**
-    * Author: 
+    * Author: Lifu Huang, Heng Ji, Kyunghyun Cho, Ido Dagan, Sebastian Riedel, Clare R. Voss
     * url: [https://www.aclweb.org/anthology/P18-1201/](https://www.aclweb.org/anthology/P18-1201/)
     * Code:[https://github.com/wilburOne/ZeroShotEvent](https://github.com/wilburOne/ZeroShotEvent)
     * Keywords: Zero-Shot Transfer
