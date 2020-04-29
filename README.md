@@ -380,6 +380,14 @@ https://arxiv.org/pdf/1712.03665.pdf)
     * url: [https://arxiv.org/abs/2002.10757](https://arxiv.org/abs/2002.10757)
     * Code: to be updated
 
+* arxiv2020: **MAVEN: A Massive General Domain Event Detection Dataset**
+    * Authors: Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin, Jie Zhou
+    * url: [https://arxiv.org/abs/2004.13590]https://arxiv.org/abs/2004.13590
+    
+* arxiv2020: **Event Extraction by Answering (Almost) Natural Questions**
+    * Authors:Xinya Du, Claire Cardie
+    * url: [https://arxiv.org/abs/2004.13625](https://arxiv.org/abs/2004.13625)
+
 
 
     
@@ -491,6 +499,9 @@ Liu, Kang  and Zhao, Jun
     * url: [https://arxiv.org/pdf/1909.02126.pdf](https://arxiv.org/pdf/1909.02126.pdf)
     * Code: [https://github.com/aiida-/HateCrime](https://github.com/aiida-/HateCrime)
 
+* arxiv2020: **MAVEN: A Massive General Domain Event Detection Dataset**
+    * Authors: Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin, Jie Zhou
+    * url: [https://arxiv.org/abs/2004.13590]https://arxiv.org/abs/2004.13590
 
 ## Multi-lingual
 * ACL2016: **A Language-Independent Neural Network for Event Detection**
