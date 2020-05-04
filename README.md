@@ -13,7 +13,7 @@ Omissions and mistakes may exist in the review. Welcome to exchange and opinions
 * [Event Data Generation](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#data-generation)
 * [Multi-Lingual](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#multi-lingual)
 * [FewShot & ZeroShot](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#few-shot--zero-shot)
-* [https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#semi-supervised](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#semi-supervised)
+* [Semi-supervised](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#semi-supervised)
 
 
 ## 2015
