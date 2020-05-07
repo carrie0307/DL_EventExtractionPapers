@@ -387,9 +387,10 @@ https://arxiv.org/pdf/1712.03665.pdf)
 * arxiv2020: **Event Extraction by Answering (Almost) Natural Questions**
     * Authors:Xinya Du, Claire Cardie
     * url: [https://arxiv.org/abs/2004.13625](https://arxiv.org/abs/2004.13625)
-
-
-
+    
+ * ACL2020: **Cross-media Structured Common Space for Multimedia Event Extraction**
+    * Authors: Manling Li, Alireza Zareian, Qi Zeng, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang
+    * url: [https://arxiv.org/abs/2005.02472](https://arxiv.org/abs/2005.02472)
     
 ## Chinese Event Detection
 * NLPCC2016 : A convolution bilstm neural network model for chinese event extraction 中文事件抽取
