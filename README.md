@@ -387,10 +387,39 @@ https://arxiv.org/pdf/1712.03665.pdf)
 * arxiv2020: **Event Extraction by Answering (Almost) Natural Questions**
     * Authors:Xinya Du, Claire Cardie
     * url: [https://arxiv.org/abs/2004.13625](https://arxiv.org/abs/2004.13625)
-    
- * ACL2020: **Cross-media Structured Common Space for Multimedia Event Extraction**
+        
+* ACL2020: **Cross-media Structured Common Space for Multimedia Event Extraction**
     * Authors: Manling Li, Alireza Zareian, Qi Zeng, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang
     * url: [https://arxiv.org/abs/2005.02472](https://arxiv.org/abs/2005.02472)
+    
+* ACL2020: **Cross-media Structured Common Space for Multimedia Event Extraction**
+    * Authors: Manling Li, Alireza Zareian, Qi Zeng, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang
+    * url: [https://arxiv.org/abs/2005.02472](https://arxiv.org/abs/2005.02472)
+
+* ACL2020: **Discourse as a Function of Event: Profiling Discourse Structure in News Articles around the Main Event**
+    * Authors: Prafulla Kumar Choubey and Aaron Lee and Ruihong Huang and Lu Wang
+    * code: [https://github.com/prafulla77/Discourse_Profiling](https://github.com/prafulla77/Discourse_Profiling)
+
+* ACL2020: **Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding**
+    * Authors: Xinya Du, Claire Cardie
+    * url: [https://arxiv.org/abs/2005.06579](https://arxiv.org/abs/2005.06579)
+
+* ACL2020: **Improving Event Detection via Open-domain Trigger Knowledge**
+    * Authors: Meihan Tong, Bin Xu, Shuai Wang, Yixin Cao, Lei Hou, Juanzi Li and Jun Xie
+
+* ACL2020: **A Two-Step Approach for Implicit Event Argument Detection**
+    * Authors: Zhisong Zhang, Xiang Kong, Zhengzhong Liu, Xuezhe Ma and Eduard Hovy
+
+* IJCAI2020: **A Unified Model for Financial Event Classification, Detection and Summarization**
+     * Authors: Quanzhi Li, Qiong Zhang
+
+* IJCAI2020: **F-HMTC: Detecting Financial Events for Investment Decisions Based on Neural Hierarchical Multi-Label Text Classification**
+    * Authors: Xin Liang, Dawei Cheng, Fangzhou Yang, Yifeng Luo, Weining Qian, Aoying Zhou
+
+* arXiv: **Event Arguments Extraction via Dilate Gated Convolutional Neural Network with Enhanced Local Features**
+    * Authors: Zhigang Kan, Linbo Qiao, Sen Yang, Feng Liu, Feng Huang
+    * url: [https://arxiv.org/abs/2006.01854](https://arxiv.org/abs/2006.01854)
+    
     
 ## Chinese Event Detection
 * NLPCC2016 : A convolution bilstm neural network model for chinese event extraction 中文事件抽取
