@@ -216,6 +216,10 @@ https://arxiv.org/pdf/1712.03665.pdf)
     * DataSet: [ACE2005 English Corpus](https://catalog.ldc.upenn.edu/LDC2006T06)
     * Keywords: Adversarial, Knowledge Distillation
 
+* AAAI2019: **Neural joint modeling of entities and events**
+    * Author: Trung Minh Nguyen, Thien Huu Nguyen
+    * url: [https://arxiv.org/abs/1812.00195](https://arxiv.org/abs/1812.00195)
+    
 * ACL2019: **Cost-Sensitive Regulation for Label Confustion-aware Event Detection**
     * Author: Lin, Hongyu  and Lu, Yaojie  and  Han, Xianpei  and Sun, Le
     * url: [https://www.aclweb.org/anthology/P19-1521](https://www.aclweb.org/anthology/P19-1521)
