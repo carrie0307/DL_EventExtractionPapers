@@ -365,37 +365,17 @@ https://arxiv.org/pdf/1712.03665.pdf)
     * Authors: Viet Lai, Franck Dernoncourt, Thien Huu Nguyen
     * url: [https://arxiv.org/abs/2002.05295](https://arxiv.org/abs/2002.05295)
     * Keywords: FewShot
+    
+* PAKDD2020: **Learning to Select Important Context Words for Event Detection**
+    * Authors: Nghia Trung, NgoTuan Ngo, NguyenThien Huu Nguyen
+    * url: [https://pakdd2020.org/download/conference_paper_slides/main-477.pdf](https://pakdd2020.org/download/conference_paper_slides/main-477.pdf)
 
 * WSDM2020: **Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection**
     * Authors: Shumin Deng, Ningyu Zhang, Jiaojian Kang, Yichi Zhang, Wei Zhang, Huajun Chen
     * url: [https://arxiv.org/abs/1910.11621](https://arxiv.org/abs/1910.11621)
     * Code: [https://github.com/231sm/Low_Resource_KBP](https://github.com/231sm/Low_Resource_KBP)
 
-* arxiv2020: **Open-domain Event Extraction and Embedding for Natural Gas Market Prediction**
-    * Authors: Chau, Minh Triet and Esteves, Diego and Lehmann, Jens
-    * url: [https://arxiv.org/abs/1912.11334](https://arxiv.org/abs/1912.11334)
-
-* arxiv2020: **Event Extraction as Definitation Comprehension**
-    * Authors: Yunmo Chen, Tongfei Chen, Seth Ebner, Benjamin Van Durme
-    * url: [https://arxiv.org/abs/1912.01586](https://arxiv.org/abs/1912.01586)
-
-* arxiv2020: **Event Detection with Relation-Aware Graph Convolutional Neural Networks**
-    * Authors: Shiyao Cui, Bowen Yu, Tingwen Liu, Zhenyu Zhang, Xuebin Wang, Jinqiao Shi
-    * url: [https://arxiv.org/abs/2002.10757](https://arxiv.org/abs/2002.10757)
-    * Code: to be updated
-
-* arxiv2020: **MAVEN: A Massive General Domain Event Detection Dataset**
-    * Authors: Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin, Jie Zhou
-    * url: [https://arxiv.org/abs/2004.13590]https://arxiv.org/abs/2004.13590
-    
-* arxiv2020: **Event Extraction by Answering (Almost) Natural Questions**
-    * Authors:Xinya Du, Claire Cardie
-    * url: [https://arxiv.org/abs/2004.13625](https://arxiv.org/abs/2004.13625)
         
-* ACL2020: **Cross-media Structured Common Space for Multimedia Event Extraction**
-    * Authors: Manling Li, Alireza Zareian, Qi Zeng, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang
-    * url: [https://arxiv.org/abs/2005.02472](https://arxiv.org/abs/2005.02472)
-    
 * ACL2020: **Cross-media Structured Common Space for Multimedia Event Extraction**
     * Authors: Manling Li, Alireza Zareian, Qi Zeng, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang
     * url: [https://arxiv.org/abs/2005.02472](https://arxiv.org/abs/2005.02472)
@@ -423,6 +403,39 @@ https://arxiv.org/pdf/1712.03665.pdf)
 * arXiv: **Event Arguments Extraction via Dilate Gated Convolutional Neural Network with Enhanced Local Features**
     * Authors: Zhigang Kan, Linbo Qiao, Sen Yang, Feng Liu, Feng Huang
     * url: [https://arxiv.org/abs/2006.01854](https://arxiv.org/abs/2006.01854)
+    
+* arxiv2020: **Open-domain Event Extraction and Embedding for Natural Gas Market Prediction**
+    * Authors: Chau, Minh Triet and Esteves, Diego and Lehmann, Jens
+    * url: [https://arxiv.org/abs/1912.11334](https://arxiv.org/abs/1912.11334)
+
+* arxiv2020: **Event Extraction as Definitation Comprehension**
+    * Authors: Yunmo Chen, Tongfei Chen, Seth Ebner, Benjamin Van Durme
+    * url: [https://arxiv.org/abs/1912.01586](https://arxiv.org/abs/1912.01586)
+
+* arxiv2020: **Event Detection with Relation-Aware Graph Convolutional Neural Networks**
+    * Authors: Shiyao Cui, Bowen Yu, Tingwen Liu, Zhenyu Zhang, Xuebin Wang, Jinqiao Shi
+    * url: [https://arxiv.org/abs/2002.10757](https://arxiv.org/abs/2002.10757)
+    * Code: to be updated
+
+* arxiv2020: **MAVEN: A Massive General Domain Event Detection Dataset**
+    * Authors: Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin, Jie Zhou
+    * url: [https://arxiv.org/abs/2004.13590]https://arxiv.org/abs/2004.13590
+    
+* arxiv2020: **Event Extraction by Answering (Almost) Natural Questions**
+    * Authors:Xinya Du, Claire Cardie
+    * url: [https://arxiv.org/abs/2004.13625](https://arxiv.org/abs/2004.13625)
+    
+* arxiv2020: **Extracting COVID-19 Events from Twitter**
+    * Authors: Shi Zong, Ashutosh Baheti, Wei Xu, Alan Ritter
+    * url: [https://arxiv.org/abs/2006.02567](https://arxiv.org/abs/2006.02567)
+    
+* arxiv2020: **Improving Event Detection using Contextual Wrod and Sensence embeddings**
+    * Authors: Mariano Maisonnave, Fernando Delbianco, Fernando Tohmé, Ana Maguitman, Evangelos Milios
+    * url: [https://arxiv.org/abs/2007.01379](https://arxiv.org/abs/2007.01379)
+    
+* arxiv2020: **MAVEN A Massive General Domain Event Detection Dataset**
+    * Authors: Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin, Jie Zhou
+    * url: [https://arxiv.org/abs/2004.13590](https://arxiv.org/abs/2004.13590)
     
     
 ## Chinese Event Detection
