@@ -1,10 +1,10 @@
 
 
-Based on [BaptisteBlouin](https://github.com/BaptisteBlouin/EventExtractionPapers), I review papers about **Deep Learning based Event Extraction**, and annotate **keywords and Abbreviation of Models**. Besides, I categorized the papers as **Chinese Event Extraction, Open-domain Event Extraction, Event Data Generation, Cross-lingual Event Extraction, Few-Shot Event Extraction and Zero-Shot Event Extraction**. 
+Based on [BaptisteBlouin](https://github.com/BaptisteBlouin/EventExtractionPapers), I review papers about **Deep Learning based Event Extraction**, and annotate **keywords and Abbreviation of Models**. Besides, I categorized the papers as **Chinese Event Extraction, Open-domain Event Extraction, Event Data Generation, Cross-lingual Event Extraction, Few-Shot Event Extraction and Zero-Shot Event Extraction**, **Document-level EE**. 
 
 Omissions and mistakes may exist in the review. Welcome to exchange and opinions!
 
-以[BaptisteBlouin](https://github.com/BaptisteBlouin/EventExtractionPapers) 的整理为参考，笔者结合平时自己在研究中的归纳，着重整理了自**2015年以来基于深度学习方法**的事件抽取与检测论文，并指出了每篇论文的**模型简称及核心关键词**等；同时又对**中文事件抽取、开放域事件抽取、事件数据生成、跨语言事件抽取、小样本事件抽取、零样本事件抽取**等类型的任务进行了单独分类的标注。
+以[BaptisteBlouin](https://github.com/BaptisteBlouin/EventExtractionPapers) 的整理为参考，笔者结合平时自己在研究中的归纳，着重整理了自**2015年以来基于深度学习方法**的事件抽取与检测论文，并指出了每篇论文的**模型简称及核心关键词**等；同时又对**中文事件抽取、开放域事件抽取、事件数据生成、跨语言事件抽取、小样本事件抽取、零样本事件抽取**,类型的任务进行了单独分类的标注。
 
 整理之中或存在疏漏与错误，欢迎大家交流与补充！
 
@@ -14,6 +14,7 @@ Omissions and mistakes may exist in the review. Welcome to exchange and opinions
 * [Multi-Lingual](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#multi-lingual)
 * [FewShot & ZeroShot](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#few-shot--zero-shot)
 * [Semi-supervised](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#semi-supervised)
+* [Doc-Level EE](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#Doc-Level-EE)
 
 
 ## 2015
@@ -375,7 +376,14 @@ https://arxiv.org/pdf/1712.03665.pdf)
     * url: [https://arxiv.org/abs/1910.11621](https://arxiv.org/abs/1910.11621)
     * Code: [https://github.com/231sm/Low_Resource_KBP](https://github.com/231sm/Low_Resource_KBP)
 
-        
+* ACL2020: **Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation**
+    * Authors: Aakanksha Naik, Carolyn Rose
+    * url: [https://www.aclweb.org/anthology/2020.acl-main.681/](https://www.aclweb.org/anthology/2020.acl-main.681/)
+    
+* ACL2020: **Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder**
+    * Authors: Zheng Tang, Gus Hahn-Powell, Mihai Surdeanu
+    * url: [https://www.aclweb.org/anthology/2020.acl-srw.23/](https://www.aclweb.org/anthology/2020.acl-srw.23/)
+
 * ACL2020: **Cross-media Structured Common Space for Multimedia Event Extraction**
     * Authors: Manling Li, Alireza Zareian, Qi Zeng, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang
     * url: [https://arxiv.org/abs/2005.02472](https://arxiv.org/abs/2005.02472)
@@ -509,7 +517,31 @@ https://arxiv.org/pdf/1712.03665.pdf)
 * arxiv2020: **Open-domain Event Extraction and Embedding for Natural Gas Market Prediction**
     * Authors: Chau, Minh Triet and Esteves, Diego and Lehmann, Jens
     * url: [https://arxiv.org/abs/1912.11334](https://arxiv.org/abs/1912.11334)
+    
+* ACL2020: **Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation**
+    * Authors: Aakanksha Naik, Carolyn Rose
+    * url: [https://www.aclweb.org/anthology/2020.acl-main.681/](https://www.aclweb.org/anthology/2020.acl-main.681/)
 
+
+* arxiv2020: **MAVEN: A Massive General Domain Event Detection Dataset**
+    * Authors: Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin, Jie Zhou
+    * url: [https://arxiv.org/abs/2004.13590]https://arxiv.org/abs/2004.13590
+    
+## Doc-Level EE
+
+* ACL2018: **DCFFE: A Document-level Chinese Financial Event Extraction System based on Automatically Labelled Training Data**
+    * Author: Yang, Hang  and Chen, Yubo  and Liu, Kang  and Xiao, Yang  and Zhao, Jun
+    * url: [https://www.aclweb.org/anthology/P18-4009](https://www.aclweb.org/anthology/P18-4009)
+    * Keywords: Automatically Labelled, Chinese Financial EE
+
+* EMNLP2019: **Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction**
+    * Author: Shun Zheng, Wei Cao, Wei Xu, Jiang Bian
+    * url: [https://www.aclweb.org/anthology/D19-1032/](https://www.aclweb.org/anthology/D19-1032/)
+    * code: [https://github.com/dolphin-zs/Doc2EDAG/tree/master/dee](https://github.com/dolphin-zs/Doc2EDAG/tree/master/dee)
+    
+* ACL2020: **Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding**
+    * Authors: Xinya Du, Claire Cardie
+    * url: [https://arxiv.org/abs/2005.06579](https://arxiv.org/abs/2005.06579)
 
 ## Data Generation
 * ACL2016: **Leveraging FrameNet to Improve Automatic Event Detection**
