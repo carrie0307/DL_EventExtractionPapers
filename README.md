@@ -77,6 +77,10 @@ Ji, Heng  and Qin, Bing  and Liu, Ting
     * DataSet:  [ACE2005](https://catalog.ldc.upenn.edu/LDC2006T06)
     * Keywords: RNN, Joint Event Extraction
     
+* NAACL2016: **Joint extraction of events and entities within a document context**
+    * Authors: Bishan Yang, Tom M. Mitchell
+    * url: [https://www.aclweb.org/anthology/N16-1033/](https://www.aclweb.org/anthology/N16-1033/)
+    
 * CCL2016: **Event Extraction via Bidirectional Long Short-Term Memory Tensor Neural Network** 
    * Author: Chen, Yubo and Liu, Shulin and He, Shizhu and Liu, Kang and Zhao, Jun
    * url: [http://www.cips-cl.org/static/anthology/CCL-2016/CCL-16-081.pdf](http://www.cips-cl.org/static/anthology/CCL-2016/CCL-16-081.pdf)
