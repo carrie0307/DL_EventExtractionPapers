@@ -545,7 +545,8 @@ https://arxiv.org/pdf/1712.03665.pdf)
     
 * ACL2020: **Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding**
     * Authors: Xinya Du, Claire Cardie
-    * url: [https://arxiv.org/abs/2005.06579](https://arxiv.org/abs/2005.06579)
+    * url: [https://www.aclweb.org/anthology/2020.acl-main.714.pdf](https://www.aclweb.org/anthology/2020.acl-main.714.pdf)
+    * code: [https://github.com/xinyadu/doc_event_role](https://github.com/xinyadu/doc_event_role)
 
 ## Data Generation
 * ACL2016: **Leveraging FrameNet to Improve Automatic Event Detection**
