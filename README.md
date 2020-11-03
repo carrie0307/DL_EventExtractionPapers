@@ -163,6 +163,7 @@ https://arxiv.org/pdf/1712.03665.pdf)
 * ACL2018: **DCFFE: A Document-level Chinese Financial Event Extraction System based on Automatically Labelled Training Data**
     * Author: Yang, Hang  and Chen, Yubo  and Liu, Kang  and Xiao, Yang  and Zhao, Jun
     * url: [https://www.aclweb.org/anthology/P18-4009](https://www.aclweb.org/anthology/P18-4009)
+    * code: [https://github.com/yanghang111/DCFEE](https://github.com/yanghang111/DCFEE)
     * Keywords: Automatically Labelled, Chinese Financial EE
     
 * **Joint Entity and Event Extraction with Generative Adversarial Imitation Learning**
@@ -221,7 +222,7 @@ https://arxiv.org/pdf/1712.03665.pdf)
     * DataSet: [ACE2005 English Corpus](https://catalog.ldc.upenn.edu/LDC2006T06)
     * Keywords: Adversarial, Knowledge Distillation
 
-* AAAI2019: **Neural joint modeling of entities and events**
+* AAAI2019: **One for All: Neural joint modeling of entities and events**
     * Author: Trung Minh Nguyen, Thien Huu Nguyen
     * url: [https://arxiv.org/abs/1812.00195](https://arxiv.org/abs/1812.00195)
     
@@ -411,6 +412,88 @@ https://arxiv.org/pdf/1712.03665.pdf)
 
 * IJCAI2020: **F-HMTC: Detecting Financial Events for Investment Decisions Based on Neural Hierarchical Multi-Label Text Classification**
     * Authors: Xin Liang, Dawei Cheng, Fangzhou Yang, Yifeng Luo, Weining Qian, Aoying Zhou
+    
+* EMNLP2020: **MAVEN: A Massive General Domain Event Detection Dataset**
+    * Authors: Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin, Jie Zhou
+    * url: [https://arxiv.org/abs/2004.13590]https://arxiv.org/abs/2004.13590
+    * code: [https://github.com/THU-KEG/MAVEN-dataset](https://github.com/THU-KEG/MAVEN-dataset)
+
+
+* EMNLP2020: **A Method for Building a Commonsense Inference Dataset based on Basic Events**
+    * Authors: Kazumasa Omura, Daisuke Kawahara and Sadao Kurohashi
+
+* EMNLP2020: **Affective Event Classification with Discourse-enhanced Self-training**
+    * Authors: Yuan Zhuang, Tianyu Jiang and Ellen Riloff
+
+* EMNLP2020: **Biomedical Event Extraction as Sequence Labeling**
+    * Authors: Alan Ramponi, Rob van der Goot, Rosario Lombardo and Barbara Plank
+
+* EMNLP2020: **Connecting the Dots: Event Graph Schema Induction with Path Language Modeling**
+    * Authors: Manling Li, Qi Zeng, Ying Lin, Kyunghyun Cho, Heng Ji, Jonathan May, Nathanael Chambers and Clare Voss
+
+* EMNLP2020: **Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction**
+    * Authors: Rujun Han, Yichao Zhou and Nanyun Peng
+    * url: [https://arxiv.org/abs/2009.07373](https://arxiv.org/abs/2009.07373)
+
+* EMNLP2020: **Event Extraction as Machine Reading Comprehension**
+    * Authors: Jian Liu, Yubo Chen, Kang Liu, Wei Bi and Xiaojiang Liu
+
+* EMNLP2020: **Event Extraction by Answering (Almost) Natural Questions**
+    * Authors: Xinya Du and Claire Cardie
+    * url: [https://arxiv.org/abs/2004.13625](https://arxiv.org/abs/2004.13625)
+    * code: [https://github.com/xinyadu/eeqa](https://github.com/xinyadu/eeqa)
+
+* EMNLP2020: **Incremental Event Detection via Knowledge Consolidation Networks**
+    * Authors: Pengfei Cao, Yubo Chen, Jun Zhao and Taifeng Wang
+    * url: 
+    * code:
+
+* EMNLP2020: **Weakly Supervised Subevent Knowledge Acquisition**
+    * Authors: Wenlin Yao, Zeyu Dai, Maitreyi Ramaswamy, Bonan Min and Ruihong Huang
+    * url:
+    * code: [https://github.com/wenlinyao/EMNLP20-SubeventAcquisition](https://github.com/wenlinyao/EMNLP20-SubeventAcquisition)
+
+* EMNLP2020: **Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks**
+    * Authors: Viet Dac Lai, Tuan Ngo Nguyen and Thien Huu Nguyen
+    * url:
+
+* EMNLP2020: **Introducing a New Dataset for Event Detection in Cybersecurity Texts**
+    * Authors: Hieu Man Duc Trong, Duc Trong Le, Amir Pouran Ben Veyseh, Thuat Nguyen and Thien Huu Nguyen
+    * url:
+    * code:
+
+* EMNLP2020: **Semi-supervised New Event Type Induction and Event Detection**
+    * Authors: Lifu Huang and Heng Ji
+    * url:
+
+* EMNLP2020: **Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events**
+    * Authors: Miguel Ballesteros, Rishita Anubhai, Shuai Wang, Nima Pourdamghani, Yogarshi Vyas, Jie Ma, Parminder Bhatia, Kathleen McKeown and Yaser Al-Onaizan
+    * url:
+   
+* EMNLP2020-Findings: **Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation**
+    * Authors: Shiyao Cui, Bowen Yu, Tingwen Liu, Zhenyu Zhang, Xuebin Wang and Jinqiao Shi
+    * url: 
+    * code: [https://github.com/cuishiyao96/eegcned](https://github.com/cuishiyao96/eegcned)
+
+* EMNLP2020-Findings: **Event Extraction as Multi-turn Question Answering**
+    * Authors: Fayuan Li, Weihua Peng, Yuguang Chen, Quan Wang, Lu Pan, Yajuan Lyu and Yong Zhu
+    * url:
+
+* EMNLP2020-Findings: **How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization**
+    * Authors: Jian Liu, Yubo Chen, Kang Liu, Yantao Jia and Zhicheng Sheng
+    * url:
+
+* EMNLP2020-Findings: **Graph Transformer Networks with Syntactic and Semantic Structures for Event Argument Extraction**
+    * Authors: Amir Pouran Ben Veyseh, Tuan Ngo Nguyen and Thien Huu Nguyen
+
+* EMNLP2020-Findings: **Biomedical Event Extraction with Hierarchical Knowledge Graphs**
+    * Authors: Kung-Hsiang Huang, Mu Yang and Nanyun Peng
+
+* EMNLP2020-Findings: **Resource-Enhanced Neural Model for Event Argument Extraction**
+    * Authors: Jie Ma, Shuai Wang, Rishita Anubhai, Miguel Ballesteros and Yaser Al-Onaizan
+
+* EMNLP2020-Findings: **Learning to Classify Events from Human Needs Category Descriptions**
+    * Authors: Haibo Ding and Zhe Feng
 
 * arXiv: **Event Arguments Extraction via Dilate Gated Convolutional Neural Network with Enhanced Local Features**
     * Authors: Zhigang Kan, Linbo Qiao, Sen Yang, Feng Liu, Feng Huang
@@ -428,14 +511,6 @@ https://arxiv.org/pdf/1712.03665.pdf)
     * Authors: Shiyao Cui, Bowen Yu, Tingwen Liu, Zhenyu Zhang, Xuebin Wang, Jinqiao Shi
     * url: [https://arxiv.org/abs/2002.10757](https://arxiv.org/abs/2002.10757)
     * Code: to be updated
-
-* arxiv2020: **MAVEN: A Massive General Domain Event Detection Dataset**
-    * Authors: Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin, Jie Zhou
-    * url: [https://arxiv.org/abs/2004.13590]https://arxiv.org/abs/2004.13590
-    
-* arxiv2020: **Event Extraction by Answering (Almost) Natural Questions**
-    * Authors:Xinya Du, Claire Cardie
-    * url: [https://arxiv.org/abs/2004.13625](https://arxiv.org/abs/2004.13625)
     
 * arxiv2020: **Extracting COVID-19 Events from Twitter**
     * Authors: Shi Zong, Ashutosh Baheti, Wei Xu, Alan Ritter
@@ -443,12 +518,11 @@ https://arxiv.org/pdf/1712.03665.pdf)
     
 * arxiv2020: **Improving Event Detection using Contextual Wrod and Sensence embeddings**
     * Authors: Mariano Maisonnave, Fernando Delbianco, Fernando Tohmé, Ana Maguitman, Evangelos Milios
-    * url: [https://arxiv.org/abs/2007.01379](https://arxiv.org/abs/2007.01379)
-    
-* arxiv2020: **MAVEN A Massive General Domain Event Detection Dataset**
-    * Authors: Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin, Jie Zhou
-    * url: [https://arxiv.org/abs/2004.13590](https://arxiv.org/abs/2004.13590)
-    
+    * url: [https://arxiv.org/abs/2007.01379](https://arxiv.org/abs/2007.01379)    
+   
+* arxiv2020: **Document-level Event-based Extraction Using Generative Template-filling Transformers**
+    * Authors: Xinya Du, Alexander Rush, Claire Cardie
+    * url: [https://arxiv.org/abs/2008.09249](https://arxiv.org/abs/2008.09249)
     
 ## Chinese Event Detection
 * NLPCC2016 : A convolution bilstm neural network model for chinese event extraction 中文事件抽取
@@ -536,6 +610,7 @@ https://arxiv.org/pdf/1712.03665.pdf)
 * ACL2018: **DCFFE: A Document-level Chinese Financial Event Extraction System based on Automatically Labelled Training Data**
     * Author: Yang, Hang  and Chen, Yubo  and Liu, Kang  and Xiao, Yang  and Zhao, Jun
     * url: [https://www.aclweb.org/anthology/P18-4009](https://www.aclweb.org/anthology/P18-4009)
+    * code: [https://github.com/yanghang111/DCFEE](https://github.com/yanghang111/DCFEE)
     * Keywords: Automatically Labelled, Chinese Financial EE
 
 * EMNLP2019: **Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction**
