@@ -421,9 +421,11 @@ https://arxiv.org/pdf/1712.03665.pdf)
 
 * EMNLP2020: **A Method for Building a Commonsense Inference Dataset based on Basic Events**
     * Authors: Kazumasa Omura, Daisuke Kawahara and Sadao Kurohashi
+    * url: [https://www.aclweb.org/anthology/2020.emnlp-main.192](https://www.aclweb.org/anthology/2020.emnlp-main.192)
 
 * EMNLP2020: **Affective Event Classification with Discourse-enhanced Self-training**
     * Authors: Yuan Zhuang, Tianyu Jiang and Ellen Riloff
+    * url: [https://www.aclweb.org/anthology/2020.emnlp-main.452](https://www.aclweb.org/anthology/2020.emnlp-main.452)
 
 * EMNLP2020: **Biomedical Event Extraction as Sequence Labeling**
     * Authors: Alan Ramponi, Rob van der Goot, Rosario Lombardo and Barbara Plank
@@ -437,6 +439,8 @@ https://arxiv.org/pdf/1712.03665.pdf)
 
 * EMNLP2020: **Event Extraction as Machine Reading Comprehension**
     * Authors: Jian Liu, Yubo Chen, Kang Liu, Wei Bi and Xiaojiang Liu
+    * url: [Event Extraction as Machine Reading Comprehension](Event Extraction as Machine Reading Comprehension)
+    * code: [https://github.com/jianliu-ml/EEasMRC](https://github.com/jianliu-ml/EEasMRC)
 
 * EMNLP2020: **Event Extraction by Answering (Almost) Natural Questions**
     * Authors: Xinya Du and Claire Cardie
@@ -445,57 +449,62 @@ https://arxiv.org/pdf/1712.03665.pdf)
 
 * EMNLP2020: **Incremental Event Detection via Knowledge Consolidation Networks**
     * Authors: Pengfei Cao, Yubo Chen, Jun Zhao and Taifeng Wang
-    * url: 
-    * code:
+    * url: [https://www.aclweb.org/anthology/2020.emnlp-main.52](https://www.aclweb.org/anthology/2020.emnlp-main.52)
+    * code: [https://github.com/CPF-NLPR/IncrementalED](https://github.com/CPF-NLPR/IncrementalED)
 
 * EMNLP2020: **Weakly Supervised Subevent Knowledge Acquisition**
     * Authors: Wenlin Yao, Zeyu Dai, Maitreyi Ramaswamy, Bonan Min and Ruihong Huang
-    * url:
+    * url: [https://www.aclweb.org/anthology/2020.emnlp-main.430](https://www.aclweb.org/anthology/2020.emnlp-main.430.pdf)
     * code: [https://github.com/wenlinyao/EMNLP20-SubeventAcquisition](https://github.com/wenlinyao/EMNLP20-SubeventAcquisition)
 
 * EMNLP2020: **Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks**
     * Authors: Viet Dac Lai, Tuan Ngo Nguyen and Thien Huu Nguyen
-    * url:
+    * url: [https://www.aclweb.org/anthology/2020.emnlp-main.435](https://www.aclweb.org/anthology/2020.emnlp-main.435)
 
 * EMNLP2020: **Introducing a New Dataset for Event Detection in Cybersecurity Texts**
     * Authors: Hieu Man Duc Trong, Duc Trong Le, Amir Pouran Ben Veyseh, Thuat Nguyen and Thien Huu Nguyen
-    * url:
-    * code:
+    * url: [https://www.aclweb.org/anthology/2020.emnlp-main.433](https://www.aclweb.org/anthology/2020.emnlp-main.433)
 
 * EMNLP2020: **Semi-supervised New Event Type Induction and Event Detection**
     * Authors: Lifu Huang and Heng Ji
-    * url:
+    * url: [https://www.aclweb.org/anthology/2020.emnlp-main.53](https://www.aclweb.org/anthology/2020.emnlp-main.53)
+    * code: [https://github.com/wilburOne/SSVQVAE](https://github.com/wilburOne/SSVQVAE)
 
 * EMNLP2020: **Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events**
     * Authors: Miguel Ballesteros, Rishita Anubhai, Shuai Wang, Nima Pourdamghani, Yogarshi Vyas, Jie Ma, Parminder Bhatia, Kathleen McKeown and Yaser Al-Onaizan
-    * url:
+    * url: [https://www.aclweb.org/anthology/2020.emnlp-main.436](https://www.aclweb.org/anthology/2020.emnlp-main.436.pdf)
    
 * EMNLP2020-Findings: **Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation**
     * Authors: Shiyao Cui, Bowen Yu, Tingwen Liu, Zhenyu Zhang, Xuebin Wang and Jinqiao Shi
-    * url: 
+    * url: [https://www.aclweb.org/anthology/2020.findings-emnlp.211](https://www.aclweb.org/anthology/2020.findings-emnlp.211.pdf)
     * code: [https://github.com/cuishiyao96/eegcned](https://github.com/cuishiyao96/eegcned)
 
 * EMNLP2020-Findings: **Event Extraction as Multi-turn Question Answering**
     * Authors: Fayuan Li, Weihua Peng, Yuguang Chen, Quan Wang, Lu Pan, Yajuan Lyu and Yong Zhu
-    * url:
+    * url: [https://www.aclweb.org/anthology/2020.findings-emnlp.73/](https://www.aclweb.org/anthology/2020.findings-emnlp.73/)
 
 * EMNLP2020-Findings: **How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization**
     * Authors: Jian Liu, Yubo Chen, Kang Liu, Yantao Jia and Zhicheng Sheng
-    * url:
+    * url: [https://www.aclweb.org/anthology/2020.findings-emnlp.229](https://www.aclweb.org/anthology/2020.findings-emnlp.229)
 
 * EMNLP2020-Findings: **Graph Transformer Networks with Syntactic and Semantic Structures for Event Argument Extraction**
     * Authors: Amir Pouran Ben Veyseh, Tuan Ngo Nguyen and Thien Huu Nguyen
+    * url: [https://www.aclweb.org/anthology/2020.findings-emnlp.326](https://www.aclweb.org/anthology/2020.findings-emnlp.326)
 
-* EMNLP2020-Findings: **Biomedical Event Extraction with Hierarchical Knowledge Graphs**
+* EMNLP2020-Findings: **Biomedical Event Extraction on Graph Edge-conditioned Attention Networks with Hierarchical Knowledge Graphs**
     * Authors: Kung-Hsiang Huang, Mu Yang and Nanyun Peng
+    * url: [https://www.aclweb.org/anthology/2020.findings-emnlp.114](https://www.aclweb.org/anthology/2020.findings-emnlp.114)
+    * code: [https://github.com/PlusLabNLP/GEANet-BioMed-Event-Extraction](https://github.com/PlusLabNLP/GEANet-BioMed-Event-Extraction)
 
 * EMNLP2020-Findings: **Resource-Enhanced Neural Model for Event Argument Extraction**
     * Authors: Jie Ma, Shuai Wang, Rishita Anubhai, Miguel Ballesteros and Yaser Al-Onaizan
+    * url: [https://www.aclweb.org/anthology/2020.findings-emnlp.318](https://www.aclweb.org/anthology/2020.findings-emnlp.318)
 
-* EMNLP2020-Findings: **Learning to Classify Events from Human Needs Category Descriptions**
+* EMNLP2020-Findings: **Learning to Classify Human Needs of Events from Category Definitions with Prototypical Instantiation**
     * Authors: Haibo Ding and Zhe Feng
+    * url: [https://www.aclweb.org/anthology/2020.findings-emnlp.421](https://www.aclweb.org/anthology/2020.findings-emnlp.421)
 
-* arXiv: **Event Arguments Extraction via Dilate Gated Convolutional Neural Network with Enhanced Local Features**
+* arXiv2020: **Event Arguments Extraction via Dilate Gated Convolutional Neural Network with Enhanced Local Features**
     * Authors: Zhigang Kan, Linbo Qiao, Sen Yang, Feng Liu, Feng Huang
     * url: [https://arxiv.org/abs/2006.01854](https://arxiv.org/abs/2006.01854)
     
@@ -506,12 +515,7 @@ https://arxiv.org/pdf/1712.03665.pdf)
 * arxiv2020: **Event Extraction as Definitation Comprehension**
     * Authors: Yunmo Chen, Tongfei Chen, Seth Ebner, Benjamin Van Durme
     * url: [https://arxiv.org/abs/1912.01586](https://arxiv.org/abs/1912.01586)
-
-* arxiv2020: **Event Detection with Relation-Aware Graph Convolutional Neural Networks**
-    * Authors: Shiyao Cui, Bowen Yu, Tingwen Liu, Zhenyu Zhang, Xuebin Wang, Jinqiao Shi
-    * url: [https://arxiv.org/abs/2002.10757](https://arxiv.org/abs/2002.10757)
-    * Code: to be updated
-    
+   
 * arxiv2020: **Extracting COVID-19 Events from Twitter**
     * Authors: Shi Zong, Ashutosh Baheti, Wei Xu, Alan Ritter
     * url: [https://arxiv.org/abs/2006.02567](https://arxiv.org/abs/2006.02567)
@@ -523,6 +527,27 @@ https://arxiv.org/pdf/1712.03665.pdf)
 * arxiv2020: **Document-level Event-based Extraction Using Generative Template-filling Transformers**
     * Authors: Xinya Du, Alexander Rush, Claire Cardie
     * url: [https://arxiv.org/abs/2008.09249](https://arxiv.org/abs/2008.09249)
+    
+* arxiv: **Efficient End-to-end Learning of Cross-event Dependencies for Document-level Event Extraction**
+    * Authors: Kung-Hsiang Huang, Nanyun Peng
+    * url: [https://arxiv.org/abs/2010.12787](https://arxiv.org/abs/2010.12787)
+    
+* arxiv2020: **GATE Graph Attention Transformer Encoder for Cross-lingual Relation and Event Extraction**
+    * Authors: Wasi Uddin Ahmad, Nanyun Peng, Kai-Wei Chang
+    * url: [https://arxiv.org/abs/2010.03009](https://arxiv.org/abs/2010.03009)
+
+* arxiv2020: **Improving Event Detection using Contextual Wrod and Sensence embeddings**
+    * Authors: Mariano Maisonnave, Fernando Delbianco, Fernando Tohmé, Ana Maguitman, Evangelos Milios
+    * url: [https://arxiv.org/abs/2007.01379](https://arxiv.org/abs/2007.01379)
+    
+* arxiv2020: **Temporal Random Indexing of Context Vectors Applied to Event Detection**
+    * Authors: Yashank Singh, Niladri Chatterjee
+    * url: [https://arxiv.org/abs/2008.12552](https://arxiv.org/abs/2008.12552)
+    
+* arxiv2020: **BERTering RAMS What and How Much does BERT Already Know About Event Arguments A Study on the RAMS Dataset**
+    * Authors: Varun Gangal, Eduard Hovy
+    * url: [https://arxiv.org/abs/2010.04098](https://arxiv.org/abs/2010.04098)
+  
     
 ## Chinese Event Detection
 * NLPCC2016 : A convolution bilstm neural network model for chinese event extraction 中文事件抽取
