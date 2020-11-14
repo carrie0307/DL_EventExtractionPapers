@@ -507,6 +507,10 @@ https://arxiv.org/pdf/1712.03665.pdf)
 * EMNLP2020-Findings: **Learning to Classify Human Needs of Events from Category Definitions with Prototypical Instantiation**
     * Authors: Haibo Ding and Zhe Feng
     * url: [https://www.aclweb.org/anthology/2020.findings-emnlp.421](https://www.aclweb.org/anthology/2020.findings-emnlp.421)
+    
+* NUSE2020: **Extensively matching for few-shot learning event detection**
+    * Authors: Viet Dac Lai, Thien Huu Nguyen, Franck Dernoncourt
+    * url: [https://www.aclweb.org/anthology/2020.nuse-1.5](https://www.aclweb.org/anthology/2020.nuse-1.5)
 
 * arXiv2020: **Event Arguments Extraction via Dilate Gated Convolutional Neural Network with Enhanced Local Features**
     * Authors: Zhigang Kan, Linbo Qiao, Sen Yang, Feng Liu, Feng Huang
