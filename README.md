@@ -367,6 +367,10 @@ https://arxiv.org/pdf/1712.03665.pdf)
     * url: [https://ieeexplore.ieee.org/document/8643786](https://ieeexplore.ieee.org/document/8643786)
 
 ## 2020
+* AAAI2020: **Extracting cybersecurity event information from text**
+    * Author: Taneeya Satyapanich, Francis Ferraro, Tim Finin
+    * url: [https://ebiquity.umbc.edu/_file_directory_/papers/943.pdf](https://ebiquity.umbc.edu/_file_directory_/papers/943.pdf)
+    * code: [https://github.com/Ebiquity/CASIE](https://github.com/Ebiquity/CASIE)
 * PAKDD2020: **Exploiting the Matching Information in the Support Set for Few Shot Event Classification**
     * Authors: Viet Lai, Franck Dernoncourt, Thien Huu Nguyen
     * url: [https://arxiv.org/abs/2002.05295](https://arxiv.org/abs/2002.05295)
