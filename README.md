@@ -404,6 +404,10 @@ https://arxiv.org/pdf/1712.03665.pdf)
 * ACL2020: **Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding**
     * Authors: Xinya Du, Claire Cardie
     * url: [https://arxiv.org/abs/2005.06579](https://arxiv.org/abs/2005.06579)
+    
+* ACL2020: **Extensively Matching for Few-shot Learning Event Detection**
+    * Authors: Viet Dac Lai, Franck Dernoncourt, Thien Huu Nguyen
+    * url: https://www.aclweb.org/anthology/2020.nuse-1.5
 
 * ACL2020: **Improving Event Detection via Open-domain Trigger Knowledge**
     * Authors: Meihan Tong, Bin Xu, Shuai Wang, Yixin Cao, Lei Hou, Juanzi Li and Jun Xie
@@ -741,6 +745,10 @@ Ji, Heng  and Qin, Bing  and Liu, Ting
     * Authors: Shumin Deng, Ningyu Zhang, Jiaojian Kang, Yichi Zhang, Wei Zhang, Huajun Chen
     * url: [https://arxiv.org/abs/1910.11621](https://arxiv.org/abs/1910.11621)
     * Code: [https://github.com/231sm/Low_Resource_KBP](https://github.com/231sm/Low_Resource_KBP)
+    
+* ACL2020: **Extensively Matching for Few-shot Learning Event Detection**
+    * Authors: Viet Dac Lai, Franck Dernoncourt, Thien Huu Nguyen
+    * url: https://www.aclweb.org/anthology/2020.nuse-1.5
 
 
 
