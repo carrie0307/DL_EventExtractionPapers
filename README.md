@@ -435,11 +435,10 @@ https://arxiv.org/pdf/1712.03665.pdf)
     * Authors: Yuan Zhuang, Tianyu Jiang and Ellen Riloff
     * url: [https://www.aclweb.org/anthology/2020.emnlp-main.452](https://www.aclweb.org/anthology/2020.emnlp-main.452)
 
-* EMNLP2020: **Biomedical Event Extraction as Sequence Labeling**
-    * Authors: Alan Ramponi, Rob van der Goot, Rosario Lombardo and Barbara Plank
-
 * EMNLP2020: **Connecting the Dots: Event Graph Schema Induction with Path Language Modeling**
     * Authors: Manling Li, Qi Zeng, Ying Lin, Kyunghyun Cho, Heng Ji, Jonathan May, Nathanael Chambers and Clare Voss
+    * url: [https://www.aclweb.org/anthology/2020.emnlp-main.50/](https://www.aclweb.org/anthology/2020.emnlp-main.50/)
+    * code: [http://blender.cs.illinois.edu/software/pathlm/](http://blender.cs.illinois.edu/software/pathlm/)
 
 * EMNLP2020: **Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction**
     * Authors: Rujun Han, Yichao Zhou and Nanyun Peng
@@ -447,7 +446,7 @@ https://arxiv.org/pdf/1712.03665.pdf)
 
 * EMNLP2020: **Event Extraction as Machine Reading Comprehension**
     * Authors: Jian Liu, Yubo Chen, Kang Liu, Wei Bi and Xiaojiang Liu
-    * url: [Event Extraction as Machine Reading Comprehension](Event Extraction as Machine Reading Comprehension)
+    * url: [https://www.aclweb.org/anthology/2020.emnlp-main.128/](https://www.aclweb.org/anthology/2020.emnlp-main.128/)
     * code: [https://github.com/jianliu-ml/EEasMRC](https://github.com/jianliu-ml/EEasMRC)
 
 * EMNLP2020: **Event Extraction by Answering (Almost) Natural Questions**
