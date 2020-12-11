@@ -516,6 +516,27 @@ https://arxiv.org/pdf/1712.03665.pdf)
     * Authors: Haibo Ding and Zhe Feng
     * url: [https://www.aclweb.org/anthology/2020.findings-emnlp.421](https://www.aclweb.org/anthology/2020.findings-emnlp.421)
     
+* COLING2020: Hierarchical Chinese Legal event extraction via Pedal Attention Mechanism
+    * Authors: Shirong Shen, Guilin Qi, Zhen Li, Sheng Bi, Lusheng Wang
+    * url: [https://www.aclweb.org/anthology/2020.coling-main.9](https://www.aclweb.org/anthology/2020.coling-main.9)
+    
+* COLING2020: Is Killed More Significant than Fled? A Contextual Model for Salient Event Detection
+    * Authors: Disha Jindal, Daniel Deutsch, Dan Roth
+    * url: [https://www.aclweb.org/anthology/2020.coling-main.10/](https://www.aclweb.org/anthology/2020.coling-main.10/)
+    * code: [https://github.com/CogComp/Salient-Event-Detection](https://github.com/CogComp/Salient-Event-Detection)
+    
+* COLING2020: Joint Event Extraction with Hierarchical Policy Network
+    * Authors: Peixin Huang, Xiang Zhao, Ryuichi Takanobu, Zhen Tan, Weidong Xiao
+    * url: [https://www.aclweb.org/anthology/2020.coling-main.239/](https://www.aclweb.org/anthology/2020.coling-main.239/)
+    
+* COLING2020: Modeling Event Salience in Narratives via Barthes’ Cardinal Functions
+    * Authors: Takaki Otake, Sho Yokoi, Naoya Inoue, Ryo Takahashi, Tatsuki Kuribayashi, Kentaro Inui
+    * url: [https://www.aclweb.org/anthology/2020.coling-main.160/](https://www.aclweb.org/anthology/2020.coling-main.160/)
+    
+* COLING2020: New Benchmark Corpus and Models for Fine-grained Event Classification: To BERT or not to BERT?
+    * Authors: Jakub Piskorski, Jacek Haneczok, Guillaume Jacquet
+    * url: [https://www.aclweb.org/anthology/2020.coling-main.584/](https://www.aclweb.org/anthology/2020.coling-main.584/)
+    
 * NUSE2020: **Extensively matching for few-shot learning event detection**
     * Authors: Viet Dac Lai, Thien Huu Nguyen, Franck Dernoncourt
     * url: [https://www.aclweb.org/anthology/2020.nuse-1.5](https://www.aclweb.org/anthology/2020.nuse-1.5)
