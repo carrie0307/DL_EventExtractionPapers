@@ -414,6 +414,11 @@ https://arxiv.org/pdf/1712.03665.pdf)
 
 * ACL2020: **A Two-Step Approach for Implicit Event Argument Detection**
     * Authors: Zhisong Zhang, Xiang Kong, Zhengzhong Liu, Xuezhe Ma and Eduard Hovy
+    * url: [https://www.aclweb.org/anthology/2020.acl-main.667/](https://www.aclweb.org/anthology/2020.acl-main.667/)
+    
+* ACL2020: Multi-Sentence Argument Linking
+    * Authors: Seth Ebner, Patrick Xia, Ryan Culkin, Kyle Rawlins, Benjamin Van DurmeA
+    * url: [https://www.aclweb.org/anthology/2020.acl-main.718/](https://www.aclweb.org/anthology/2020.acl-main.718/)
 
 * IJCAI2020: **A Unified Model for Financial Event Classification, Detection and Summarization**
      * Authors: Quanzhi Li, Qiong Zhang
