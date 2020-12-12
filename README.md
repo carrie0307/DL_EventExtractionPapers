@@ -4,10 +4,6 @@ Based on [BaptisteBlouin](https://github.com/BaptisteBlouin/EventExtractionPaper
 
 Omissions and mistakes may exist in the review. Welcome to exchange and opinions!
 
-以[BaptisteBlouin](https://github.com/BaptisteBlouin/EventExtractionPapers) 的整理为参考，笔者结合平时自己在研究中的归纳，着重整理了自**2015年以来基于深度学习方法**的事件抽取与检测论文，并指出了每篇论文的**模型简称及核心关键词**等；同时又对**中文事件抽取、开放域事件抽取、事件数据生成、跨语言事件抽取、小样本事件抽取、零样本事件抽取**,类型的任务进行了单独分类的标注。
-
-整理之中或存在疏漏与错误，欢迎大家交流与补充！
-
 * [Chinese Event Extraction](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#chinese-event-detection)
 * [Open-Domain EE](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#open-domain-event-extraction)
 * [Event Data Generation](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#data-generation)
