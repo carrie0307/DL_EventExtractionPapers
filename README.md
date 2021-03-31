@@ -2,13 +2,17 @@ Based on [BaptisteBlouin](https://github.com/BaptisteBlouin/EventExtractionPaper
 
 Omissions and mistakes may exist in the review. Welcome to exchange and opinions!
 
-* [Chinese Event Extraction](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#chinese-event-detection)
-* [Open-Domain EE](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#open-domain-event-extraction)
-* [Event Data Generation](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#data-generation)
-* [Multi-Lingual](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#multi-lingual)
-* [FewShot & ZeroShot](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#few-shot--zero-shot)
-* [Semi-supervised](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#semi-supervised)
-* [Doc-Level EE](https://github.com/carrie0307/DL_EventExtractionPapers/tree/master#Doc-Level-EE)
+* [Chinese Event Extraction](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Chinese%20EE.md)
+* [Doc-Level EE](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Doc-EE.md)
+* [Few-Shot and Zero Shot](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Few-Shot%20Zero-Shot%20EE.md)
+* [Open-Domain EE](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Open%20Domain%20EE.md)
+* [GCN-based EE](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/GCN-based%20EE.md)
+* [Joint Models about EE](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Joint%20Models%20about%20EE.md)
+* [Multi-Lingual](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Multi%20Lingual%20EE.md)
+* [Semi-supervised](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Semi-Supervised%20Weakly-Supervised%20EE.md)
+* [New Dataset](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Dataset.md)
+* [Data Generation](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Data%20Generation.md)
+* [Resolution and Event Relation](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Resolution%20%26%20Event%20Relation.md)
 
 
 ## 2015
