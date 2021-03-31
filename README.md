@@ -1,5 +1,3 @@
-
-
 Based on [BaptisteBlouin](https://github.com/BaptisteBlouin/EventExtractionPapers), I review papers about **Deep Learning based Event Extraction**, and annotate **keywords and Abbreviation of Models**. Besides, I categorized the papers as **Chinese Event Extraction, Open-domain Event Extraction, Event Data Generation, Cross-lingual Event Extraction, Few-Shot Event Extraction and Zero-Shot Event Extraction**, **Document-level EE**. 
 
 Omissions and mistakes may exist in the review. Welcome to exchange and opinions!
@@ -281,6 +279,7 @@ https://arxiv.org/pdf/1712.03665.pdf)
 * EMNLP2019: **Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction**
     * Author: Shun Zheng, Wei Cao, Wei Xu, Jiang Bian
     * url: [https://www.aclweb.org/anthology/D19-1032/](https://www.aclweb.org/anthology/D19-1032/)
+    * code: [https://github.com/dolphin-zs/Doc2EDAG](https://github.com/dolphin-zs/Doc2EDAG)
 
 * EMNLP2019: **Entity, Relation, and Event Extraction with Contextualized Span Representations**
     * Author: David Wadden, Ulme Wennberg, Yi Luan, Hannaneh Hajishirzi
@@ -367,6 +366,7 @@ https://arxiv.org/pdf/1712.03665.pdf)
     * Author: Taneeya Satyapanich, Francis Ferraro, Tim Finin
     * url: [https://ebiquity.umbc.edu/_file_directory_/papers/943.pdf](https://ebiquity.umbc.edu/_file_directory_/papers/943.pdf)
     * code: [https://github.com/Ebiquity/CASIE](https://github.com/Ebiquity/CASIE)
+
 * PAKDD2020: **Exploiting the Matching Information in the Support Set for Few Shot Event Classification**
     * Authors: Viet Lai, Franck Dernoncourt, Thien Huu Nguyen
     * url: [https://arxiv.org/abs/2002.05295](https://arxiv.org/abs/2002.05295)
@@ -407,27 +407,42 @@ https://arxiv.org/pdf/1712.03665.pdf)
 
 * ACL2020: **Improving Event Detection via Open-domain Trigger Knowledge**
     * Authors: Meihan Tong, Bin Xu, Shuai Wang, Yixin Cao, Lei Hou, Juanzi Li and Jun Xie
+    * url: [https://www.aclweb.org/anthology/2020.acl-main.522/](https://www.aclweb.org/anthology/2020.acl-main.522/)
 
 * ACL2020: **A Two-Step Approach for Implicit Event Argument Detection**
     * Authors: Zhisong Zhang, Xiang Kong, Zhengzhong Liu, Xuezhe Ma and Eduard Hovy
     * url: [https://www.aclweb.org/anthology/2020.acl-main.667/](https://www.aclweb.org/anthology/2020.acl-main.667/)
+    * code: [https://github.com/zzsfornlp/zmsp](https://github.com/zzsfornlp/zmsp)
     
 * ACL2020: Multi-Sentence Argument Linking
     * Authors: Seth Ebner, Patrick Xia, Ryan Culkin, Kyle Rawlins, Benjamin Van DurmeA
     * url: [https://www.aclweb.org/anthology/2020.acl-main.718/](https://www.aclweb.org/anthology/2020.acl-main.718/)
+    * code: [https://nlp.jhu.edu/rams/](https://nlp.jhu.edu/rams/)
 
 * IJCAI2020: **A Unified Model for Financial Event Classification, Detection and Summarization**
      * Authors: Quanzhi Li, Qiong Zhang
+     * url: [https://www.ijcai.org/Proceedings/2020/644](https://www.ijcai.org/Proceedings/2020/644)
+     * 
 
 * IJCAI2020: **F-HMTC: Detecting Financial Events for Investment Decisions Based on Neural Hierarchical Multi-Label Text Classification**
     * Authors: Xin Liang, Dawei Cheng, Fangzhou Yang, Yifeng Luo, Weining Qian, Aoying Zhou
+    * url: [https://www.ijcai.org/Proceedings/2020/619](https://www.ijcai.org/Proceedings/2020/619)
+    * code: [https://github.com/finint/F-HMTC](https://github.com/finint/F-HMTC)
     
 * EMNLP2020: **MAVEN: A Massive General Domain Event Detection Dataset**
     * Authors: Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin, Jie Zhou
     * url: [https://arxiv.org/abs/2004.13590]https://arxiv.org/abs/2004.13590
     * code: [https://github.com/THU-KEG/MAVEN-dataset](https://github.com/THU-KEG/MAVEN-dataset)
 
+* EMNLP2020: **EMNLP2020 Joint Constrained Learning for Event-Event Relation Extraction**
+    * Authors: Haoyu Wang, Muhao Chen, Hongming Zhang, Dan Roth
+    * url: [https://www.aclweb.org/anthology/2020.emnlp-main.51.pdf](https://www.aclweb.org/anthology/2020.emnlp-main.51.pdf)
+    * code: [https://github.com/CogComp/JointConstrainedLearning](https://github.com/CogComp/JointConstrainedLearning)
 
+* EMNLP2020: **Analogous Process Structure Induction for Sub-event Sequence Prediction**
+    * Authors: Hongming Zhang, Muhao Chen, Haoyu Wang, Yangqiu Song, Dan Roth
+    * url: [https://www.aclweb.org/anthology/2020.emnlp-main.119/](https://www.aclweb.org/anthology/2020.emnlp-main.119/)
+    
 * EMNLP2020: **A Method for Building a Commonsense Inference Dataset based on Basic Events**
     * Authors: Kazumasa Omura, Daisuke Kawahara and Sadao Kurohashi
     * url: [https://www.aclweb.org/anthology/2020.emnlp-main.192](https://www.aclweb.org/anthology/2020.emnlp-main.192)
@@ -532,10 +547,18 @@ https://arxiv.org/pdf/1712.03665.pdf)
 * COLING2020: New Benchmark Corpus and Models for Fine-grained Event Classification: To BERT or not to BERT?
     * Authors: Jakub Piskorski, Jacek Haneczok, Guillaume Jacquet
     * url: [https://www.aclweb.org/anthology/2020.coling-main.584/](https://www.aclweb.org/anthology/2020.coling-main.584/)
-    
-* NUSE2020: **Extensively matching for few-shot learning event detection**
-    * Authors: Viet Dac Lai, Thien Huu Nguyen, Franck Dernoncourt
-    * url: [https://www.aclweb.org/anthology/2020.nuse-1.5](https://www.aclweb.org/anthology/2020.nuse-1.5)
+
+* CCL2020: **A Novel Joint Framework for Multiple Chinese Events Extraction**
+    * Author: Nuo xu, Haihua Xie and Dongyan Zhao
+    * url: [https://www.aclweb.org/anthology/2020.ccl-1.88/](https://www.aclweb.org/anthology/2020.ccl-1.88/)
+
+* arxiv2020: **Label Enhanced Event Detection with Heterogeneous Graph Attention Networks**
+    * Authors: Shiyao Cui, Bowen Yu, Xin Cong, Tingwen Liu, Quangang Li, Jinqiao Shi
+    * url: [https://arxiv.org/abs/2012.01878](https://arxiv.org/abs/2012.01878)
+
+* arxiv2020: **Few-Shot Event Detection with Prototypical Amortized Conditional Random Field**
+    * Authors: Xin Cong, Shiyao Cui, Bowen Yu, Tingwen Liu, Yubin Wang, Bin Wang
+    * url: [https://arxiv.org/abs/2012.02353](https://arxiv.org/abs/2012.02353)
 
 * arXiv2020: **Event Arguments Extraction via Dilate Gated Convolutional Neural Network with Enhanced Local Features**
     * Authors: Zhigang Kan, Linbo Qiao, Sen Yang, Feng Liu, Feng Huang
@@ -580,203 +603,36 @@ https://arxiv.org/pdf/1712.03665.pdf)
 * arxiv2020: **BERTering RAMS What and How Much does BERT Already Know About Event Arguments A Study on the RAMS Dataset**
     * Authors: Varun Gangal, Eduard Hovy
     * url: [https://arxiv.org/abs/2010.04098](https://arxiv.org/abs/2010.04098)
-  
-    
-## Chinese Event Detection
-* NLPCC2016 : A convolution bilstm neural network model for chinese event extraction 中文事件抽取
 
-* ACL2018: **Nugget Proposal Networks for Chinese Event Detection**
-    * Author: Lin, Hongyu and Lu, Yaojie and Han, Xianpei and Sun, Le
-    * url: [https://www.aclweb.org/anthology/P18-1145.pdf](https://www.aclweb.org/anthology/P18-1145.pdf)
-    * DataSet: [ACE2005 Chinese Corpus](https://catalog.ldc.upenn.edu/LDC2006T06), KBP2017 Corpus
-    * Code: [https://github.com/sanmusunrise/NPNs](https://github.com/sanmusunrise/NPNs)
-
-* ACL2018: **DCFFE: A Document-level Chinese Financial Event Extraction System based on Automatically Labelled Training Data**
-    * Author: Yang, Hang  and Chen, Yubo  and Liu, Kang  and Xiao, Yang  and Zhao, Jun
-    * url: [https://www.aclweb.org/anthology/P18-4009](https://www.aclweb.org/anthology/P18-4009)
-    * Keywords: Automatically Labelled, Chinese Financial EE
-
-* EMNLP2019: **Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction**
-    * Author: Shun Zheng, Wei Cao, Wei Xu, Jiang Bian
-    * url: [https://www.aclweb.org/anthology/D19-1032/](https://www.aclweb.org/anthology/D19-1032/)
-
-* EMNLP2019: **Event Detection with Trigger-Aware Lattice Neural Network**
-    * Author: Ning Ding, Ziran Li, Zhiyuan Liu, Haitao Zheng, Zibo Lin
-    * url: [https://www.aclweb.org/anthology/D19-1033/](https://www.aclweb.org/anthology/D19-1033/)
-    * DataSet:  [ACE2005 Chinese Corpus](https://catalog.ldc.upenn.edu/LDC2006T06)
-    * Code: [https://github.com/thunlp/TLNN](https://github.com/thunlp/TLNN)
-    * Keywords: Trigger-Aware Lattice 
-
-* IJCNLP2019: **A Hybrid Character Representatin for Chinese Event Detection**
-    * Author: Xi Xiangyu ; Zhang Tong ; Ye Wei ; Zhang Jinglei ; Xie Rui ; Zhang Shikun
-    * url: [https://ieeexplore.ieee.org/document/8851786](https://ieeexplore.ieee.org/document/8851786)
-    * DataSet: [ACE2005 Chinese Corpus](https://catalog.ldc.upenn.edu/LDC2006T06)
+* arxiv2020: **End-to-End Neural Event Coreference Resolution**
+    * Authors: Yaojie Lu, Hongyu Lin, Jialong Tang, Xianpei Han, Le Sun
+    * url: [https://arxiv.org/abs/2009.08153](https://arxiv.org/abs/2009.08153)
 
 
-* EMNLP2019: **Cross-lingual Structure Transfer for Relation and Event Extraction**
-    * Author: Ananya Subburathinam, Di Lu, Heng Ji, Jonathan May, Shih-Fu Chang, Avirup Sil, Clare Voss
-    * url: [https://www.aclweb.org/anthology/D19-1030/](https://www.aclweb.org/anthology/D19-1030/)
+## 2021
 
+* AAAI2021: **What the Role Is vs. What Plays the Role: Semi-Supervised Event Argument Extraction via Dual Question Answering**
+    * Authors: Yang Zhou, Yubo Chen , Jun Zhao, Yin Wu, Jiexin Xu and Jinlong Li
+    * url: [https://www.aaai.org/AAAI21Papers/AAAI-2635.ZhouY.pdf](https://www.aaai.org/AAAI21Papers/AAAI-2635.ZhouY.pdf)
 
-  
-## Open Domain Event Extraction
+* AAAI2021: **Span-Based Event Coreference Resolution**
+    * Authors: Jing Lu and Vincent Ng
+    * url: [https://www.aaai.org/AAAI21Papers/AAAI-9086.LJ.pdf](https://www.aaai.org/AAAI21Papers/AAAI-9086.LJ.pdf)
 
-* AACL2016: **Liberal Event Extraction and Event Schema Enduction**
-    * Lifu Huang, Taylor Cassidy, Xiaocheng Feng, Heng Ji, Clare R. Voss, Jiawei Han, Avirup Sil
-    * url: [https://www.aclweb.org/anthology/P16-1025/](https://www.aclweb.org/anthology/P16-1025/)
+* AAAI2021: **GATE: Graph Attention Transformer Encoder for Cross-Lingual Relationand Event Extraction**
+    * Authors: Wasi Uddin Ahmad, Nanyun Peng, Kai-Wei Chang
+    * url: [https://arxiv.org/abs/2010.03009](https://arxiv.org/abs/2010.03009)
 
-* NAACL2016: **Joint Learning Templates and Slots for Event Schema Induction**
-    * Author: Lei Sha, Sujian Li, Baobao Chang, Zhifang Sui
-    * url: [https://www.aclweb.org/anthology/N16-1049/](https://www.aclweb.org/anthology/N16-1049/)
-    * Code: [https://github.com/shenglih/normalized_cut/tree/master](https://github.com/shenglih/normalized_cut/tree/master)
+* WWW2021: **Taxonomy-aware Learning for Few-shot Event Detection**
+    * Authors: Jianming Zheng, Wanyu Chen, Wengqiang Lei and Honghui Chen
 
-* AACL2015: **Generative Event Schema Induction with Entity Disambiguation**
-    * Author: Kiem-Hieu Nguyen, Xavier Tannier, Olivier Ferret, Romaric Besançon
-    * url: [https://www.aclweb.org/anthology/P15-1019/](https://www.aclweb.org/anthology/P15-1019/)
+* WWW2021: **Knowledge-Preserving Incremental Social Event Detection via Heterogeneous GNN**
+    * Authors: Yuwei Cao, Hao Peng, Jia Wu, Yingtong Dou, Jianxin Li, Philip S. Yu
+    * url: [https://www.researchgate.net/publication/348675695_Knowledge-Preserving_Incremental_Social_Event_Detection_via_Heterogeneous_GNNs](https://www.researchgate.net/publication/348675695_Knowledge-Preserving_Incremental_Social_Event_Detection_via_Heterogeneous_GNNs)
 
-* COLING2018: **Open-Domain Event Detection using Distant Supervision**
-    * Author: Araki, Jun  and  Mitamura, Teruko
-    * url: [https://www.aclweb.org/anthology/C18-1075/](https://www.aclweb.org/anthology/C18-1075/)
-    * Code:[https://bitbucket.org/junaraki/coling2018-event](https://bitbucket.org/junaraki/coling2018-event)
-    * Keywords: Open-Domain, Distant Supervision
+* WWW2021: **Multi-level Connection Enhanced Representation Learning for Script Event Prediction**
+    * Authors: Lihong Wang, Juwei Yue, Shu Guo, Jiawei Sheng, Qianren Mao, Zhenyu Chen, Shenghai Zhong and Chen Li
 
-* ACL2019: **Open Domain Event Extraction Using Neural Latent Variable Models**
-    * Author: Xiao Liu and Heyan Huang and Yue Zhang
-    * url: [https://github.com/lx865712528/ACL2019-ODEE](https://github.com/lx865712528/ACL2019-ODEE)
-    * Code: [https://github.com/lx865712528/ACL2019-ODEE](https://github.com/lx865712528/ACL2019-ODEE)
-
-* EMNLP2019: **Reporting the unreported: Event Extraction for Analyzing the Local Representation of Hate Crimes**
-    * Author: Aida Mostafazadeh Davani etal.
-    * url: [https://arxiv.org/pdf/1909.02126.pdf](https://arxiv.org/pdf/1909.02126.pdf)
-    * Code: [https://github.com/aiida-/HateCrime](https://github.com/aiida-/HateCrime)
-
-* arxiv2020: **Open-domain Event Extraction and Embedding for Natural Gas Market Prediction**
-    * Authors: Chau, Minh Triet and Esteves, Diego and Lehmann, Jens
-    * url: [https://arxiv.org/abs/1912.11334](https://arxiv.org/abs/1912.11334)
-    
-* ACL2020: **Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation**
-    * Authors: Aakanksha Naik, Carolyn Rose
-    * url: [https://www.aclweb.org/anthology/2020.acl-main.681/](https://www.aclweb.org/anthology/2020.acl-main.681/)
-
-
-* arxiv2020: **MAVEN: A Massive General Domain Event Detection Dataset**
-    * Authors: Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin, Jie Zhou
-    * url: [https://arxiv.org/abs/2004.13590]https://arxiv.org/abs/2004.13590
-    
-## Doc-Level EE
-
-* ACL2018: **DCFFE: A Document-level Chinese Financial Event Extraction System based on Automatically Labelled Training Data**
-    * Author: Yang, Hang  and Chen, Yubo  and Liu, Kang  and Xiao, Yang  and Zhao, Jun
-    * url: [https://www.aclweb.org/anthology/P18-4009](https://www.aclweb.org/anthology/P18-4009)
-    * code: [https://github.com/yanghang111/DCFEE](https://github.com/yanghang111/DCFEE)
-    * Keywords: Automatically Labelled, Chinese Financial EE
-
-* EMNLP2019: **Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction**
-    * Author: Shun Zheng, Wei Cao, Wei Xu, Jiang Bian
-    * url: [https://www.aclweb.org/anthology/D19-1032/](https://www.aclweb.org/anthology/D19-1032/)
-    * code: [https://github.com/dolphin-zs/Doc2EDAG/tree/master/dee](https://github.com/dolphin-zs/Doc2EDAG/tree/master/dee)
-    
-* ACL2020: **Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding**
-    * Authors: Xinya Du, Claire Cardie
-    * url: [https://www.aclweb.org/anthology/2020.acl-main.714.pdf](https://www.aclweb.org/anthology/2020.acl-main.714.pdf)
-    * code: [https://github.com/xinyadu/doc_event_role](https://github.com/xinyadu/doc_event_role)
-
-## Data Generation
-* ACL2016: **Leveraging FrameNet to Improve Automatic Event Detection**
-    * Author: Liu, Shulin  and Chen, Yubo  and He, Shizhu  and Liu, Kang  and Zhao, Jun
-    * url: [https://www.aclweb.org/anthology/P16-1201](https://www.aclweb.org/anthology/P16-1201)
-    * DataSet: [ACE2005 English Corpus](https://catalog.ldc.upenn.edu/LDC2006T06)
-    * Code: [https://github.com/liushulinle/events_in_framenet](https://github.com/liushulinle/events_in_framenet)
-    * Keywords: [FrameNet](https://framenet.icsi.berkeley.edu/fndrupal/), Events automatically detected from FN
-
-* ACL2017: **Automatically Labeled Data Generation for Large Scale Event Extraction**
-    * Author: Chen, Yubo  and   Liu, Shulin  and Zhang, Xiang  and
-Liu, Kang  and Zhao, Jun
-    * url: [https://www.aclweb.org/anthology/P17-1038](https://www.aclweb.org/anthology/P17-1038)
-    * Code: [https://github.com/acl2017submission/event-data](https://github.com/acl2017submission/event-data)
-    * DataSet: [ACE2005 English Corpus](https://catalog.ldc.upenn.edu/LDC2006T06)
-    * Keywords: Data Generation, Distant Supervision
-
-* ACL2019: **Exploring Pre-trained Language Models for Event Extraction and Geenration**
-    * Author: Yang, Sen  and Feng, Dawei  and Qiao, Linbo  and Kan, Zhigang  and
-    Li, Dongsheng
-    * url: [https://www.aclweb.org/anthology/P19-1522](https://www.aclweb.org/anthology/P19-1522)
-    * Keywords: PLMEE, BERT
-
-* **Extending Event Detection to New Types with Learning from Keywords**
-    * Author: Lai, Viet Dac  and Nguyen, Thien
-    * url: [https://www.aclweb.org/anthology/D19-5532](https://www.aclweb.org/anthology/D19-5532)
-
-* EMNLP2019: **Open Event Extraction from Online Text using a Generative Adversarial Network**
-    * Author: Rui Wang, Deyu Zhou, Yulan He
-    * url: [https://www.aclweb.org/anthology/D19-1027/](https://www.aclweb.org/anthology/D19-1027/)
-
-* EMNLP2019: **Reporting the unreported: Event Extraction for Analyzing the Local Representation of Hate Crimes**
-    * Author: Aida Mostafazadeh Davani etal.
-    * url: [https://arxiv.org/pdf/1909.02126.pdf](https://arxiv.org/pdf/1909.02126.pdf)
-    * Code: [https://github.com/aiida-/HateCrime](https://github.com/aiida-/HateCrime)
-
-* arxiv2020: **MAVEN: A Massive General Domain Event Detection Dataset**
-    * Authors: Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin, Jie Zhou
-    * url: [https://arxiv.org/abs/2004.13590]https://arxiv.org/abs/2004.13590
-
-## Multi-lingual
-* ACL2016: **A Language-Independent Neural Network for Event Detection**
-    * Author: Feng, Xiaocheng  and Huang, Lifu  and Tang, Duyu  and
-Ji, Heng  and Qin, Bing  and Liu, Ting
-    * url: [https://www.aclweb.org/anthology/P16-2011](https://www.aclweb.org/anthology/P16-2011)
-    * DataSet: [ACE2005 English Corpus](https://catalog.ldc.upenn.edu/LDC2006T06), Spainish ERE Corpus
-    * Keywords: Hybrid Neural Networks(RNN+CNN), multi-languages
-
-* COLING2016:**Leveraging Multilingual Training for Limited Resource Event Extraction**
-    * Author: Hsi, Andrew  and Yang, Yiming  and Carbonell, Jaime  and Xu, Ruochen
-    * url: [https://www.aclweb.org/anthology/C16-1114](https://www.aclweb.org/anthology/C16-1114)
-    * DataSet: [ACE2005 English Corpus](https://catalog.ldc.upenn.edu/LDC2006T06)
-    * Keywords: Training on multiple languages using a combination of both language-dependent and language-independent features
-
-* AAAI2018: **Event detection via gated multilingual attention mechanism**
-    * Author: Liu, Jian and Chen, Yubo and Liu, Kang and Zhao, Jun
-    * url: [https://www.semanticscholar.org/paper/Event-Detection-via-Gated-Multilingual-Attention-Liu-Chen/e41984c1c89af71eb3700f5fd2a865eae95c6c8a](https://www.semanticscholar.org/paper/Event-Detection-via-Gated-Multilingual-Attention-Liu-Chen/e41984c1c89af71eb3700f5fd2a865eae95c6c8a)
-    * DataSet:  [ACE2005 English Corpus](https://catalog.ldc.upenn.edu/LDC2006T06)
-    * Keywords: Multilingual Attention
-
-* EMNLP2019: **Cross-lingual Structure Transfer for Relation and Event Extraction**
-    * Author: Ananya Subburathinam, Di Lu, Heng Ji, Jonathan May, Shih-Fu Chang, Avirup Sil, Clare Voss
-    * url: [https://www.aclweb.org/anthology/D19-1030/](https://www.aclweb.org/anthology/D19-1030/)
-
-* EMNLP2019: **Neural Cross-Lingual Event Detection with Minimal Parallel Resources**
-    * Author: Jian Liu, Yubo Chen, Kang Liu, Jun Zhao
-    * url: [https://www.aclweb.org/anthology/D19-1068/](https://www.aclweb.org/anthology/D19-1068/)
-    * Keywords: Cross-Lingual Event Detection
-
-
-## Few-Shot & Zero-Shot
-* ACL2018: **Zero-Shot Transfer Learning for Event Extraction**
-    * Author: 
-    * url: [https://www.aclweb.org/anthology/P18-1201/](https://www.aclweb.org/anthology/P18-1201/)
-    * Code:[https://github.com/wilburOne/ZeroShotEvent](https://github.com/wilburOne/ZeroShotEvent)
-    * Keywords: Zero-Shot Transfer
-
-* PAKDD2020: **Exploiting the Matching Information in the Support Set for Few Shot Event Classification**
-    * Authors: Viet Lai, Franck Dernoncourt, Thien Huu Nguyen
-    * url: [https://arxiv.org/abs/2002.05295](https://arxiv.org/abs/2002.05295)
-    * Keywords: FewShot
-
-* WSDM2020: **Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection**
-    * Authors: Shumin Deng, Ningyu Zhang, Jiaojian Kang, Yichi Zhang, Wei Zhang, Huajun Chen
-    * url: [https://arxiv.org/abs/1910.11621](https://arxiv.org/abs/1910.11621)
-    * Code: [https://github.com/231sm/Low_Resource_KBP](https://github.com/231sm/Low_Resource_KBP)
-    
-* ACL2020: **Extensively Matching for Few-shot Learning Event Detection**
-    * Authors: Viet Dac Lai, Franck Dernoncourt, Thien Huu Nguyen
-    * url: https://www.aclweb.org/anthology/2020.nuse-1.5
-
-
-
-## Semi-Supervised
-* NAACL2018: **Semi-supervised event extraction with paraphrase clusters**
-    * Author: Ferguson, James  and Lockard, Colin  and  Weld, Daniel  and Hajishirzi, Hannaneh
-    * url: [https://www.aclweb.org/anthology/N18-2058/](https://www.aclweb.org/anthology/N18-2058/)
-    * DataSet: [ACE2005 Chinese Corpus](https://catalog.ldc.upenn.edu/LDC2006T06), [TAC2015](https://tac.nist.gov//2015/KBP/Event/index.html)
-    * Keywords: Semi-supervised
-
+* WWW2021: **Learning Neural Point Processes with Latent Graphs**
+    * Authors: Qiang Zhang, Aldo Lipani and Emine Yilmaz
+    * url: [https://www.researchgate.net/publication/349380768_Learning_Neural_Point_Processes_with_Latent_Graphs](https://www.researchgate.net/publication/349380768_Learning_Neural_Point_Processes_with_Latent_Graphs)]
