@@ -3,19 +3,19 @@ Based on [BaptisteBlouin](https://github.com/BaptisteBlouin/EventExtractionPaper
 Omissions and mistakes may exist in the review. Welcome to exchange and opinions!
 
 
-* [Doc-Level EE](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Doc-EE.md)
-* [Few-Shot and Zero Shot](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Few-Shot%20Zero-Shot%20EE.md)
-* [Resolution](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Resolution.md)
-* [Event Relateion EXtraction](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Event%20Relation%20Extraction.md)
-* [Script Event Prediction](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Script%20Event%20Prediction.md)
-* [Domain Adaption](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Domain%20Adaption.md)
-* [Open-Domain EE](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Open%20Domain%20EE.md)
-* [Joint Models about EE](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Joint%20Models%20about%20EE.md)
-* [Multi-Lingual](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Multi%20Lingual%20EE.md)
-* [Semi-supervised](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Semi-Supervised%20Weakly-Supervised%20EE.md)
-* [New Dataset](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Dataset.md)
-* [Data Generation](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Data%20Generation.md)
-* [Chinese Event Extraction](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Chinese%20EE.md)
+* [Doc-Level EE](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Category/Doc-EE.md)
+* [Few-Shot and Zero Shot](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Category/Few-Shot%20Zero-Shot%20EE.md)
+* [Resolution](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Category/Resolution.md)
+* [Event Relateion EXtraction](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Category/Event%20Relation%20Extraction.md)
+* [Script Event Prediction](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Category/Script%20Event%20Prediction.md)
+* [Domain Adaption](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Category/Domain%20Adaption.md)
+* [Open-Domain EE](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Category/Open%20Domain%20EE.md)
+* [Joint Models about EE](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Category/Joint%20Models%20about%20EE.md)
+* [Multi-Lingual](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Category/Multi%20Lingual%20EE.md)
+* [Semi-supervised](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Category/Semi-Supervised%20Weakly-Supervised%20EE.md)
+* [New Dataset](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Category/Dataset.md)
+* [Data Generation](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Category/Data%20Generation.md)
+* [Chinese Event Extraction](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Category/Chinese%20EE.md)
 
 
 ## 2015
