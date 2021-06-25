@@ -44,3 +44,9 @@ Liu, Kang  and Zhao, Jun
     * Authors: Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin, Jie Zhou
     * url: [https://arxiv.org/abs/2004.13590]https://arxiv.org/abs/2004.13590
     * code: [https://github.com/THU-KEG/MAVEN-dataset](https://github.com/THU-KEG/MAVEN-dataset)
+
+
+
+* NAACL2021: **WEC Deriving a Large-scale Cross-document Event Coreference dataset from Wikipedia**
+    * Authors: Alon Eirew, Arie Cattan, Ido Dagan
+    * url: [https://www.aclweb.org/anthology/2021.naacl-main.198/](https://www.aclweb.org/anthology/2021.naacl-main.198/)

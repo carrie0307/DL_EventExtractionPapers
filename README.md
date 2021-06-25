@@ -2,17 +2,18 @@ Based on [BaptisteBlouin](https://github.com/BaptisteBlouin/EventExtractionPaper
 
 Omissions and mistakes may exist in the review. Welcome to exchange and opinions!
 
-* [Chinese Event Extraction](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Chinese%20EE.md)
+
 * [Doc-Level EE](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Doc-EE.md)
 * [Few-Shot and Zero Shot](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Few-Shot%20Zero-Shot%20EE.md)
 * [Open-Domain EE](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Open%20Domain%20EE.md)
-* [GCN-based EE](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/GCN-based%20EE.md)
 * [Joint Models about EE](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Joint%20Models%20about%20EE.md)
 * [Multi-Lingual](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Multi%20Lingual%20EE.md)
 * [Semi-supervised](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Semi-Supervised%20Weakly-Supervised%20EE.md)
 * [New Dataset](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Dataset.md)
 * [Data Generation](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Data%20Generation.md)
-* [Resolution and Event Relation](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Resolution%20%26%20Event%20Relation.md)
+* [Resolution]()
+* [Event Relateion EXtraction]
+* [Chinese Event Extraction](https://github.com/carrie0307/DL_EventExtractionPapers/blob/master/Chinese%20EE.md)
 
 
 ## 2015
@@ -432,6 +433,10 @@ https://arxiv.org/pdf/1712.03665.pdf)
     * Authors: Xin Liang, Dawei Cheng, Fangzhou Yang, Yifeng Luo, Weining Qian, Aoying Zhou
     * url: [https://www.ijcai.org/Proceedings/2020/619](https://www.ijcai.org/Proceedings/2020/619)
     * code: [https://github.com/finint/F-HMTC](https://github.com/finint/F-HMTC)
+
+* IJCAI2020: **IJCAI2020 Knowledge Enhanced Event Causality Identification with Mention Masking Generalizations**
+    * Authors: Jian Liu, Yubo Chen, Jun Zhao
+    * url: [https://www.ijcai.org/Proceedings/2020/499](https://www.ijcai.org/Proceedings/2020/499)
     
 * EMNLP2020: **MAVEN: A Massive General Domain Event Detection Dataset**
     * Authors: Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin, Jie Zhou
@@ -552,6 +557,14 @@ https://arxiv.org/pdf/1712.03665.pdf)
     * Authors: Jakub Piskorski, Jacek Haneczok, Guillaume Jacquet
     * url: [https://www.aclweb.org/anthology/2020.coling-main.584/](https://www.aclweb.org/anthology/2020.coling-main.584/)
 
+* COLING2020: **KnowDis: Knowledge Enhanced Data Augmentation for Event Causality Detection via Distant Supervision**
+    * Authors: Xinyu Zuo, Yubo Chen, Kang Liu, Jun Zhao
+    * url: [https://www.aclweb.org/anthology/2020.coling-main.135/](https://www.aclweb.org/anthology/2020.coling-main.135/)
+
+* COLING2020: Integrating External Event Knowledge for Script Learning
+    * Authors: Shangwen Lv, Fuqing Zhu, Songlin Hu
+    * url: [https://www.aclweb.org/anthology/2020.coling-main.27/]
+
 * CCL2020: **A Novel Joint Framework for Multiple Chinese Events Extraction**
     * Author: Nuo xu, Haihua Xie and Dongyan Zhao
     * url: [https://www.aclweb.org/anthology/2020.ccl-1.88/](https://www.aclweb.org/anthology/2020.ccl-1.88/)
@@ -629,6 +642,7 @@ https://arxiv.org/pdf/1712.03665.pdf)
 
 * WWW2021: **Taxonomy-aware Learning for Few-shot Event Detection**
     * Authors: Jianming Zheng, Wanyu Chen, Wengqiang Lei and Honghui Chen
+    * url: [https://www2021.thewebconf.org/papers/taxonomy-aware-learning-for-few-shot-event-detection/](https://www2021.thewebconf.org/papers/taxonomy-aware-learning-for-few-shot-event-detection/)
 
 * WWW2021: **Knowledge-Preserving Incremental Social Event Detection via Heterogeneous GNN**
     * Authors: Yuwei Cao, Hao Peng, Jia Wu, Yingtong Dou, Jianxin Li, Philip S. Yu
@@ -636,7 +650,147 @@ https://arxiv.org/pdf/1712.03665.pdf)
 
 * WWW2021: **Multi-level Connection Enhanced Representation Learning for Script Event Prediction**
     * Authors: Lihong Wang, Juwei Yue, Shu Guo, Jiawei Sheng, Qianren Mao, Zhenyu Chen, Shenghai Zhong and Chen Li
+    * Url: [https://www2021.thewebconf.org/papers/multi-level-connection-enhanced-representation-learning-for-script-event-prediction/](https://www2021.thewebconf.org/papers/multi-level-connection-enhanced-representation-learning-for-script-event-prediction/)
 
-* WWW2021: **Learning Neural Point Processes with Latent Graphs**
-    * Authors: Qiang Zhang, Aldo Lipani and Emine Yilmaz
-    * url: [https://www.researchgate.net/publication/349380768_Learning_Neural_Point_Processes_with_Latent_Graphs](https://www.researchgate.net/publication/349380768_Learning_Neural_Point_Processes_with_Latent_Graphs)]
+* IJCAI2021: **Discourse-Level Event Temporal Ordering with Uncertainty-Guided Graph Completion**
+    * Authors: Jian Liu, Jinan Xu, Yufeng Chen, Yujie Zhang
+
+
+* ACL2021: **Unleash GPT-2 Power for Event Detection**
+    * Authors: Amir Pouran Ben Veyseh, Viet Lai, Franck Dernoncourt and Thien Huu Nguyen
+
+* ACL2021: **OntoED: Low-resource Event Detection with Ontology Embedding**
+    * Authors: Shumin Deng, Ningyu Zhang, Luoqiu Li, Chen Hui, Tou Huaixiao, Mosha Chen, Fei Huang and Huajun Chen
+    * url: [https://arxiv.org/abs/2105.10922](https://arxiv.org/abs/2105.10922)
+
+* ACL2021-Findings: **Few-Shot Event Detection with Prototypical Amortized Conditional Random Field**
+    * Authors: Xin Cong, Shiyao Cui, Bowen Yu, Tingwen Liu, Wang Yubin and Bin Wang
+    * url: [https://arxiv.org/abs/2012.02353](https://arxiv.org/abs/2012.02353)
+
+* ACL2021: **Zero-shot Event Extraction via Transfer Learning: Challenges and Insights**
+    * Authors: Qing Lyu, Hongming Zhang, Elior Sulem and Dan Roth
+
+
+* ACL2021: **Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction**
+    * Authors: Yaojie Lu, Hongyu Lin, Jin Xu, Xianpei Han, Jialong Tang, Annan Li, Le Sun, Meng Liao and Shaoyi Chen
+
+* ACL2021: **CLEVE: Contrastive Pre-training for Event Extraction**
+    * Authors: Ziqi Wang, Xiaozhi Wang, Xu Han, Yankai Lin, Lei Hou, Zhiyuan Liu, Peng Li, Juanzi Li and Jie Zhou
+
+* ACL2021-Findings: **CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction**
+    * Authors: Jiawei Sheng, Shu Guo, Bowen Yu, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu and Hongbo Xu
+
+* ACL2021: **Capturing Event Argument Interaction via A Bi-Directional Entity-Level Recurrent Decoder**
+    * Authors: Xi Xiangyu, Wei Ye, Shikun Zhang, Quanxiu Wang, Huixing Jiang and Wei Wu
+
+* ACL2021: **Trigger is Not Sufficient: Exploiting Frame-aware Knowledge for Implicit Event Argument Extractio**
+    * Authors: Kaiwen Wei, Xian Sun, Zequn Zhang, Jingyuan Zhang, Guo Zhi and Li Jin
+
+
+* ACL2021: **Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker**
+    * Authors: Runxin Xu, Tianyu Liu, Lei Li and Baobao Chang
+
+* ACL2021: **Document-level Event Extraction via Parallel Prediction Networks**
+    * Authors: Hang Yang, Dianbo Sui, Yubo Chen, Kang Liu, Jun Zhao and Taifeng Wang
+
+* ACL2021: **Document-Level Event Argument Extraction via Optimal Transport**
+    * Authors: Amir Pouran Ben Veyseh, Minh Van Nguyen, Franck Dernoncourt, Bonan Min and Thien Huu Nguyen
+
+* ACL2021: **MLBiNet: A Cross-Sentence Collective Event Detection Network**
+    * Authors: Dongfang Lou, Zhilin Liao, Shumin Deng, Ningyu Zhang and Huajun Chen
+
+* ACL2021: **Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks**
+    * Authors: Pengfei Cao, Xinyu Zuo, Yubo Chen, Kang Liu, Jun Zhao, Yuguang Chen and Weihua Peng
+
+* ACL2021: **LearnDA: Learnable Knowledge-Guided Data Augmentation for Event Causality Identification**
+    * Authors: Xinyu Zuo, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, Weihua Peng and Yuguang Chen
+
+* ACL2021: **From Discourse to Narrative: Knowledge Projection for Event Relation Extraction**
+    * Authors: Jialong Tang, Hongyu Lin, Meng Liao, Yaojie Lu, Xianpei Han, Le Sun, Weijian Xie and Jin Xu
+
+
+* ACL2021: **Exploiting Document Structures and Cluster Consistencies for Event Coreference Resolution**
+    * Authors: Hieu Minh Tran, Duy Phung and Thien Huu Nguyen
+
+* ACL2021: **Don’t Let Discourse Confine Your Model: Sequence Perturbations for Improved Event Language Models**
+    * Authors: Mahnaz Koupaee, Greg Durrett, Nathanael Chambers and Niranjan Balasubramanian
+
+* ACL2021: **Conditional Generation of Temporally-ordered Event Sequences**
+    * Authors: Shih-Ting Lin, Nathanael Chambers and Greg Durrett
+
+* ACL2021: **ForecastQA: A Question Answering Challenge for Event Forecasting with Temporal Text Data**
+    * Authors: Woojeong Jin, Rahul Khanna, Suji Kim, Dong-Ho Lee, Fred Morstatter, Aram Galstyan and Xiang Ren
+
+* ACL2021: **Event Graph Knowledge Enhanced Explainable Causal Reasoning**
+    * Authors: Li Du, Xiao Ding, Kai Xiong, Ting Liu and Bing Qin
+
+
+* ACL2021: **Learning Event Graph Knowledge for Abductive Reasoning**
+    * Authors: Li Du, Xiao Ding, Ting Liu and Bing Qin
+
+* ACL2021: **The Possible, the Plausible, and the Desirable: Event-Based Modality Detection for Language Processing**
+    * Authors: Valentina Pyatkin, Shoval Sadde, Aynat Rubinstein, Paul Portner and Reut Tsarfaty
+
+* EACL2021: **Adapting Event Extractors to Medical Data Bridging the Covariate Shift**
+    * Authors: Aakanksha Naik, Jill Fain Lehman, Carolyn Rose
+    * url: [https://www.aclweb.org/anthology/2021.eacl-main.258/](https://www.aclweb.org/anthology/2021.eacl-main.258/)
+
+* EACL2021: **Fine-Grained Event Trigger Detection**
+    * Authors: Duong Le, Thien Huu Nguyen
+    * url: [https://www.aclweb.org/anthology/2021.eacl-main.237/](https://www.aclweb.org/anthology/2021.eacl-main.237/)
+
+* EACL2021: **EACL2021 Probing into the Root A Dataset for Reason Extraction of Structural Events from Financial Documents**
+    * Authors: Pei Chen, Kang Liu, Yubo Chen, Taifeng Wang, Jun Zhao
+    * url: [https://www.aclweb.org/anthology/2021.eacl-main.175/](https://www.aclweb.org/anthology/2021.eacl-main.175/)
+
+* Extracting Events and Their Relations from Texts A Survey on RecentResearch Progress and Challenges
+    * Authors: KangLiu, YuboChen, JianLiu, XinyuZuo, JunZhaoa
+    * url: [https://www.sciencedirect.com/science/article/pii/S266665102100005X](https://www.sciencedirect.com/science/article/pii/S266665102100005X)
+
+* NAACL2021: **A Context-Dependent Gated Module for Incorporating Symbolic Semantics into Event Coreference Resolution**
+    * Authors: Tuan Lai, Heng Ji, Trung Bui, Quan Hung Tran, Franck Dernoncourt, Walter Chang
+    * url: [https://www.aclweb.org/anthology/2021.naacl-main.274/](https://www.aclweb.org/anthology/2021.naacl-main.274/)
+
+* NAACL2021: **Constrained Multi-Task Learning for Event Coreference Resolution**
+    * Authors: Jing Lu, Vincent Ng
+    * url: [https://www.aclweb.org/anthology/2021.naacl-main.356/](https://www.aclweb.org/anthology/2021.naacl-main.356/)
+
+* NAACL2021: **Document-Level Event Argument Extraction by Conditional Generation**
+    * Authors: Sha Li, Heng Ji, Jiawei Han
+    * url: [https://www.aclweb.org/anthology/2021.naacl-main.69/](https://www.aclweb.org/anthology/2021.naacl-main.69/)
+
+* NAACL2021: **Document-level Event Extraction with Efficient End-to-end Learning of Cross-Event Dependencies**
+    * Authors: Kung-Hsiang Huang, Nanyun Peng
+    * url: [https://www.aclweb.org/anthology/2021.nuse-1.4/](https://www.aclweb.org/anthology/2021.nuse-1.4/)
+
+* NAACL2021: **Event Time Extraction and Propagation via Graph Attention Networks**
+    * Authors: Haoyang Wen, Yanru Qu, Heng Ji, Qiang Ning, Jiawei Han, Avi Sil, Hanghang Tong, Dan Roth
+    * url: [https://www.aclweb.org/anthology/2021.naacl-main.6/](https://www.aclweb.org/anthology/2021.naacl-main.6/)
+
+* NAACL2021: **NAACL2021 Graph Convolutional Networks for Event Causality Identification with Rich Document-level Structures**
+    * Authors: Minh Tran Phu, Thien Huu Nguyen
+    * url: [https://www.aclweb.org/anthology/2021.naacl-main.273/](https://www.aclweb.org/anthology/2021.naacl-main.273/)
+
+* NAACL2021: **Modeling Event Plausibility with Consistent Conceptual Abstraction**
+    * Authors: Ian Porada, Kaheer Suleman, Adam Trischler, Jackie Chi Kit Cheung
+    * url: [https://www.aclweb.org/anthology/2021.naacl-main.138/](https://www.aclweb.org/anthology/2021.naacl-main.138/)
+
+* NAACL2021: **NAACL2021 Temporal Reasoning on Implicit Events from Distant Supervision**
+    * Authors: Ben Zhou, Kyle Richardson, Qiang Ning, Tushar Khot, Ashish Sabharwal, Dan Roth
+    * url: [https://www.aclweb.org/anthology/2021.naacl-main.107/](https://www.aclweb.org/anthology/2021.naacl-main.107/)
+
+* NAACL2021: **Time-Stamped Language Model Teaching Language Models to Understand the Flow of Events**
+    * Authors: Ben Zhou, Kyle Richardson, Qiang Ning, Tushar Khot, Ashish Sabharwal, Dan Roth
+    * url: [https://www.aclweb.org/anthology/2021.naacl-main.107/](https://www.aclweb.org/anthology/2021.naacl-main.107/)
+
+* NAACL2021: **WEC Deriving a Large-scale Cross-document Event Coreference dataset from Wikipedia**
+    * Authors: Alon Eirew, Arie Cattan, Ido Dagan
+    * url: [https://www.aclweb.org/anthology/2021.naacl-main.198/](https://www.aclweb.org/anthology/2021.naacl-main.198/)
+
+* CCL2021: **Towards Causal Explanation Detection with Pyramid Salient-Aware Network**
+    * Authors: Xinyu Zuo, Yubo Chen, Kang Liu, Jun Zhao
+    * url: [https://www.aclweb.org/anthology/2020.ccl-1.84/](https://www.aclweb.org/anthology/2020.ccl-1.84/)
+
+* Information Sciences2021 **Document-level event causality identification via graph inference mechanism**
+    * Authors: KunZhao, DonghongJi, FazhiHe, YijiangLiu, YafengRen
+    * url: [https://www.sciencedirect.com/science/article/abs/pii/S002002552100116X](https://www.sciencedirect.com/science/article/abs/pii/S002002552100116X)

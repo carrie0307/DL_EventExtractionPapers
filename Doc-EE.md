@@ -27,11 +27,30 @@
     * url: [https://www.aclweb.org/anthology/2020.acl-main.718/](https://www.aclweb.org/anthology/2020.acl-main.718/)
     * code: [https://nlp.jhu.edu/rams/](https://nlp.jhu.edu/rams/)
 
-
-* arxiv2020: **Document-level Event-based Extraction Using Generative Template-filling Transformers**
+* EACL2021: **Document-level Event-based Extraction Using Generative Template-filling Transformers**
     * Authors: Xinya Du, Alexander Rush, Claire Cardie
     * url: [https://arxiv.org/abs/2008.09249](https://arxiv.org/abs/2008.09249)
     
 * arxiv: **Efficient End-to-end Learning of Cross-event Dependencies for Document-level Event Extraction**
     * Authors: Kung-Hsiang Huang, Nanyun Peng
     * url: [https://arxiv.org/abs/2010.12787](https://arxiv.org/abs/2010.12787)
+
+* NAACL2021: **Document-Level Event Argument Extraction by Conditional Generation**
+    * Authors: Sha Li, Heng Ji, Jiawei Han
+    * url: [https://www.aclweb.org/anthology/2021.naacl-main.69/](https://www.aclweb.org/anthology/2021.naacl-main.69/)
+
+* NAACL2021: **Document-level Event Extraction with Efficient End-to-end Learning of Cross-Event Dependencies**
+    * Authors: Kung-Hsiang Huang, Nanyun Peng
+    * url: [https://www.aclweb.org/anthology/2021.nuse-1.4/](https://www.aclweb.org/anthology/2021.nuse-1.4/)
+
+* ACL2021: **Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker**
+    * Authors: Runxin Xu, Tianyu Liu, Lei Li and Baobao Chang
+
+* ACL2021: **Document-level Event Extraction via Parallel Prediction Networks**
+    * Authors: Hang Yang, Dianbo Sui, Yubo Chen, Kang Liu, Jun Zhao and Taifeng Wang
+
+* ACL2021: **Document-Level Event Argument Extraction via Optimal Transport**
+    * Authors: Amir Pouran Ben Veyseh, Minh Van Nguyen, Franck Dernoncourt, Bonan Min and Thien Huu Nguyen
+
+* ACL2021: **MLBiNet: A Cross-Sentence Collective Event Detection Network**
+    * Authors: Dongfang Lou, Zhilin Liao, Shumin Deng, Ningyu Zhang and Huajun Chen

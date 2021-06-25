@@ -26,3 +26,14 @@
 * arxiv2020: **Few-Shot Event Detection with Prototypical Amortized Conditional Random Field**
     * Authors: Xin Cong, Shiyao Cui, Bowen Yu, Tingwen Liu, Yubin Wang, Bin Wang
     * url: [https://arxiv.org/abs/2012.02353](https://arxiv.org/abs/2012.02353)
+
+* ACL2021: **OntoED: Low-resource Event Detection with Ontology Embedding**
+    * Authors: Shumin Deng, Ningyu Zhang, Luoqiu Li, Chen Hui, Tou Huaixiao, Mosha Chen, Fei Huang and Huajun Chen
+    * url: [https://arxiv.org/abs/2105.10922](https://arxiv.org/abs/2105.10922)
+
+* ACL2021: **Few-Shot Event Detection with Prototypical Amortized Conditional Random Field**
+    * Authors: Xin Cong, Shiyao Cui, Bowen Yu, Tingwen Liu, Wang Yubin and Bin Wang
+    * url: [https://arxiv.org/abs/2012.02353](https://arxiv.org/abs/2012.02353)
+
+* ACL2021: **Zero-shot Event Extraction via Transfer Learning: Challenges and Insights**
+    * Authors: Qing Lyu, Hongming Zhang, Elior Sulem and Dan Roth
