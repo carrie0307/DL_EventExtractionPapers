@@ -3,6 +3,10 @@
 * EMNLP2019: **Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction**
     * Author: Rujun Han, Qiang Ning, Nanyun Peng
     * url: [https://www.aclweb.org/anthology/D19-1041/](https://www.aclweb.org/anthology/D19-1041/)
+
+* NAACL2019: **Modeling Document-level Causal Structures for Event Causal Relation**
+    * Author: Lei Gao, Prafulla Kumar Choubey, Ruihong Huang
+    * url: [https://www.aclweb.org/anthology/N19-1179/](https://www.aclweb.org/anthology/N19-1179/)
     
 * EMNLP2020: **Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction**
     * Authors: Rujun Han, Yichao Zhou and Nanyun Peng
@@ -17,13 +21,21 @@
     * url: [https://www.aclweb.org/anthology/2020.emnlp-main.51.pdf](https://www.aclweb.org/anthology/2020.emnlp-main.51.pdf)
     * code: [https://github.com/CogComp/JointConstrainedLearning](https://github.com/CogComp/JointConstrainedLearning)
 
+
+* Extracting Events and Their Relations from Texts A Survey on RecentResearch Progress and Challenges
+    * Authors: KangLiu, YuboChen, JianLiu, XinyuZuo, JunZhaoa
+    * url: [https://www.sciencedirect.com/science/article/pii/S266665102100005X](https://www.sciencedirect.com/science/article/pii/S266665102100005X)
+
+* EACL2021: **EACL2021 Probing into the Root A Dataset for Reason Extraction of Structural Events from Financial Documents**
+    * Authors: Pei Chen, Kang Liu, Yubo Chen, Taifeng Wang, Jun Zhao
+    * url: [https://www.aclweb.org/anthology/2021.eacl-main.175/](https://www.aclweb.org/anthology/2021.eacl-main.175/)
+
+
+### ECI
+
 * IJCAI2020: **IJCAI2020 Knowledge Enhanced Event Causality Identification with Mention Masking Generalizations**
     * Authors: Jian Liu, Yubo Chen, Jun Zhao
     * url: [https://www.ijcai.org/Proceedings/2020/499](https://www.ijcai.org/Proceedings/2020/499)
-
-* NAACL2021: **NAACL2021 Graph Convolutional Networks for Event Causality Identification with Rich Document-level Structures**
-    * Authors: Minh Tran Phu, Thien Huu Nguyen
-    * url: [https://www.aclweb.org/anthology/2021.naacl-main.273/](https://www.aclweb.org/anthology/2021.naacl-main.273/)
 
 * ACL2021: **Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks**
     * Authors: Pengfei Cao, Xinyu Zuo, Yubo Chen, Kang Liu, Jun Zhao, Yuguang Chen and Weihua Peng
@@ -34,15 +46,25 @@
 * ACL2021: **From Discourse to Narrative: Knowledge Projection for Event Relation Extraction**
     * Authors: Jialong Tang, Hongyu Lin, Meng Liao, Yaojie Lu, Xianpei Han, Le Sun, Weijian Xie and Jin Xu
 
-* EACL2021: **EACL2021 Probing into the Root A Dataset for Reason Extraction of Structural Events from Financial Documents**
-    * Authors: Pei Chen, Kang Liu, Yubo Chen, Taifeng Wang, Jun Zhao
-    * url: [https://www.aclweb.org/anthology/2021.eacl-main.175/](https://www.aclweb.org/anthology/2021.eacl-main.175/)
 
 * CCL2021: **Towards Causal Explanation Detection with Pyramid Salient-Aware Network**
     * Authors: Xinyu Zuo, Yubo Chen, Kang Liu, Jun Zhao
     * url: [https://www.aclweb.org/anthology/2020.ccl-1.84/](https://www.aclweb.org/anthology/2020.ccl-1.84/)
 
-* Extracting Events and Their Relations from Texts A Survey on RecentResearch Progress and Challenges
-    * Authors: KangLiu, YuboChen, JianLiu, XinyuZuo, JunZhaoa
-    * url: [https://www.sciencedirect.com/science/article/pii/S266665102100005X](https://www.sciencedirect.com/science/article/pii/S266665102100005X)
+
+
+
+### Doc-level ECI
+
+* NAACL2019: **https://www.aclweb.org/anthology/N19-1179/**
+    * Authors: Lei Gao, Prafulla Kumar Choubey, Ruihong Huang
+    * url: [https://www.aclweb.org/anthology/N19-1179/](https://www.aclweb.org/anthology/N19-1179/)
+
+* NAACL2021: **NAACL2021 Graph Convolutional Networks for Event Causality Identification with Rich Document-level Structures**
+    * Authors: Minh Tran Phu, Thien Huu Nguyen
+    * url: [https://www.aclweb.org/anthology/2021.naacl-main.273/](https://www.aclweb.org/anthology/2021.naacl-main.273/)
+
+* Information Sciences2021 **Document-level event causality identification via graph inference mechanism**
+    * Authors: KunZhao, DonghongJi, FazhiHe, YijiangLiu, YafengRen
+    * url: [https://www.sciencedirect.com/science/article/abs/pii/S002002552100116X](https://www.sciencedirect.com/science/article/abs/pii/S002002552100116X)
 

@@ -16,3 +16,7 @@
 * ACL2021: **Exploiting Document Structures and Cluster Consistencies for Event Coreference Resolution**
     * Authors: Hieu Minh Tran, Duy Phung and Thien Huu Nguyen
 
+* NAACL2021: **WEC Deriving a Large-scale Cross-document Event Coreference dataset from Wikipedia**
+    * Authors: Alon Eirew, Arie Cattan, Ido Dagan
+    * url: [https://www.aclweb.org/anthology/2021.naacl-main.198/](https://www.aclweb.org/anthology/2021.naacl-main.198/)
+

@@ -22,16 +22,14 @@
 
 * WWW2021: **Taxonomy-aware Learning for Few-shot Event Detection**
     * Authors: Jianming Zheng, Wanyu Chen, Wengqiang Lei and Honghui Chen
+    * url: [https://www2021.thewebconf.org/papers/taxonomy-aware-learning-for-few-shot-event-detection/](https://www2021.thewebconf.org/papers/taxonomy-aware-learning-for-few-shot-event-detection/)
 
-* arxiv2020: **Few-Shot Event Detection with Prototypical Amortized Conditional Random Field**
-    * Authors: Xin Cong, Shiyao Cui, Bowen Yu, Tingwen Liu, Yubin Wang, Bin Wang
-    * url: [https://arxiv.org/abs/2012.02353](https://arxiv.org/abs/2012.02353)
 
 * ACL2021: **OntoED: Low-resource Event Detection with Ontology Embedding**
     * Authors: Shumin Deng, Ningyu Zhang, Luoqiu Li, Chen Hui, Tou Huaixiao, Mosha Chen, Fei Huang and Huajun Chen
     * url: [https://arxiv.org/abs/2105.10922](https://arxiv.org/abs/2105.10922)
 
-* ACL2021: **Few-Shot Event Detection with Prototypical Amortized Conditional Random Field**
+* ACL2021-Findings: **Few-Shot Event Detection with Prototypical Amortized Conditional Random Field**
     * Authors: Xin Cong, Shiyao Cui, Bowen Yu, Tingwen Liu, Wang Yubin and Bin Wang
     * url: [https://arxiv.org/abs/2012.02353](https://arxiv.org/abs/2012.02353)
 
