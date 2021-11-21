@@ -25,6 +25,11 @@
 * ACL2021: **MLBiNet: A Cross-Sentence Collective Event Detection Network**
     * Authors: Dongfang Lou, Zhilin Liao, Shumin Deng, Ningyu Zhang and Huajun Chen
 
+
+* EMNLP2021: Modeling Document-Level Context for Event Detection via Important Context Selection
+    * Authors: Amir Pouran Ben Veyseh, Minh Van Nguyen, Nghia Ngo Trung, Bonan Min, Thien Huu Nguyen
+    * url: [https://aclanthology.org/2021.emnlp-main.439.pdf](https://aclanthology.org/2021.emnlp-main.439.pdf)
+
 ### Doc2EDAG-dataset-based
 
 * EMNLP2019: **Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction**
@@ -50,6 +55,18 @@
     * url: [https://www.aclweb.org/anthology/2020.acl-main.718/](https://www.aclweb.org/anthology/2020.acl-main.718/)
     * code: [https://nlp.jhu.edu/rams/](https://nlp.jhu.edu/rams/)
 
+* CIKM2021: Multi-Sentence Argument Linking via An Event-Aware Hierarchical Encoder
+    * Authors: Hang Yang, Yubo Chen, Kang Liu, Jun Zhao, Taifeng Wang
+    * Links: [https://dl.acm.org/doi/pdf/10.1145/3459637.3482148](https://dl.acm.org/doi/pdf/10.1145/3459637.3482148)
+
+* EMNLP2021: Machine Reading Comprehension as Data Augmentation: A Case Study on Implicit Event Argument Extraction
+    * Authors: Jian Liu, Yufeng Chen, Jinan Xu
+    * url: [https://aclanthology.org/2021.emnlp-main.214.pdf](https://aclanthology.org/2021.emnlp-main.214.pdf)
+
+* EMNLP2021: Exploring Sentence Community for Document-Level Event Extraction
+    * Authors: Yusheng Huang, Weijia Jia
+    * url: [https://aclanthology.org/2021.findings-emnlp.32.pdf](https://aclanthology.org/2021.findings-emnlp.32.pdf)
+
 ### MUC4-dataset-based
     
 * ACL2020: **Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding**
@@ -58,7 +75,11 @@
     * code: [https://github.com/xinyadu/doc_event_role](https://github.com/xinyadu/doc_event_role)
 
 
-
 * EACL2021: **Document-level Event-based Extraction Using Generative Template-filling Transformers**
     * Authors: Xinya Du, Alexander Rush, Claire Cardie
     * url: [https://arxiv.org/abs/2008.09249](https://arxiv.org/abs/2008.09249)
+
+
+* NAACL2021: Template Filling with Generative Transformers
+    * Authors: Xinya Du, Alexander Rush, Claire Cardie
+    * url: [https://aclanthology.org/2021.naacl-main.70/](https://aclanthology.org/2021.naacl-main.70/)

@@ -50,3 +50,12 @@ Liu, Kang  and Zhao, Jun
 * NAACL2021: **WEC Deriving a Large-scale Cross-document Event Coreference dataset from Wikipedia**
     * Authors: Alon Eirew, Arie Cattan, Ido Dagan
     * url: [https://www.aclweb.org/anthology/2021.naacl-main.198/](https://www.aclweb.org/anthology/2021.naacl-main.198/)
+
+
+* CIKM2021: VidLife: A Dataset for Life Event Extraction from Videos
+    * Authors: VidLife: A Dataset for Life Event Extraction from Videos
+    * url: [https://dl.acm.org/doi/pdf/10.1145/3459637.3482022](https://dl.acm.org/doi/pdf/10.1145/3459637.3482022)
+
+* EMNLP2021: ESTER: A Machine Reading Comprehension Dataset for Reasoning about Event Semantic Relations
+    * Authors: Rujun Han, I-Hung Hsu, Jiao Sun, Julia Baylon, Qiang Ning, Dan Roth, Nanyun Peng
+    * url: [https://aclanthology.org/2021.emnlp-main.597.pdf](https://aclanthology.org/2021.emnlp-main.597.pdf)

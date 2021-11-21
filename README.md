@@ -769,7 +769,7 @@ https://arxiv.org/pdf/1712.03665.pdf)
     * Authors: Haoyang Wen, Yanru Qu, Heng Ji, Qiang Ning, Jiawei Han, Avi Sil, Hanghang Tong, Dan Roth
     * url: [https://www.aclweb.org/anthology/2021.naacl-main.6/](https://www.aclweb.org/anthology/2021.naacl-main.6/)
 
-* NAACL2021: **NAACL2021 Graph Convolutional Networks for Event Causality Identification with Rich Document-level Structures**
+* NAACL2021: **Graph Convolutional Networks for Event Causality Identification with Rich Document-level Structures**
     * Authors: Minh Tran Phu, Thien Huu Nguyen
     * url: [https://www.aclweb.org/anthology/2021.naacl-main.273/](https://www.aclweb.org/anthology/2021.naacl-main.273/)
 
@@ -777,7 +777,7 @@ https://arxiv.org/pdf/1712.03665.pdf)
     * Authors: Ian Porada, Kaheer Suleman, Adam Trischler, Jackie Chi Kit Cheung
     * url: [https://www.aclweb.org/anthology/2021.naacl-main.138/](https://www.aclweb.org/anthology/2021.naacl-main.138/)
 
-* NAACL2021: **NAACL2021 Temporal Reasoning on Implicit Events from Distant Supervision**
+* NAACL2021: **Temporal Reasoning on Implicit Events from Distant Supervision**
     * Authors: Ben Zhou, Kyle Richardson, Qiang Ning, Tushar Khot, Ashish Sabharwal, Dan Roth
     * url: [https://www.aclweb.org/anthology/2021.naacl-main.107/](https://www.aclweb.org/anthology/2021.naacl-main.107/)
 
@@ -789,6 +789,10 @@ https://arxiv.org/pdf/1712.03665.pdf)
     * Authors: Alon Eirew, Arie Cattan, Ido Dagan
     * url: [https://www.aclweb.org/anthology/2021.naacl-main.198/](https://www.aclweb.org/anthology/2021.naacl-main.198/)
 
+* NAACL2021: Template Filling with Generative Transformers
+    * Authors: Xinya Du, Alexander Rush, Claire Cardie
+    * url: [https://aclanthology.org/2021.naacl-main.70/](https://aclanthology.org/2021.naacl-main.70/)
+
 * CCL2021: **Towards Causal Explanation Detection with Pyramid Salient-Aware Network**
     * Authors: Xinyu Zuo, Yubo Chen, Kang Liu, Jun Zhao
     * url: [https://www.aclweb.org/anthology/2020.ccl-1.84/](https://www.aclweb.org/anthology/2020.ccl-1.84/)
@@ -796,3 +800,145 @@ https://arxiv.org/pdf/1712.03665.pdf)
 * Information Sciences2021 **Document-level event causality identification via graph inference mechanism**
     * Authors: KunZhao, DonghongJi, FazhiHe, YijiangLiu, YafengRen
     * url: [https://www.sciencedirect.com/science/article/abs/pii/S002002552100116X](https://www.sciencedirect.com/science/article/abs/pii/S002002552100116X)
+
+* CIKM2021: Behind the Scenes: An Exploration of Trigger Biases Problem in Few-Shot Event Classification
+    * Authors: Peiyi Wang, Runxin Xu, Tianyu Liu, Damai Dai, Baobao Chang, Zhifang Sui 
+    * url: [https://dl.acm.org/doi/10.1145/3459637.3482236](https://dl.acm.org/doi/10.1145/3459637.3482236)
+
+* CIKM2021: Understanding Event Predictions via Contextualized Multilevel Feature Learning
+    * Authors: Songgaojun Deng, Huzefa Rangwala, Yue Ning
+    * url: [https://dl.acm.org/doi/pdf/10.1145/3459637.3482309](https://dl.acm.org/doi/pdf/10.1145/3459637.3482309)
+
+* CIKM2021: Detection of Illicit Drug Trafficking Events on Instagram: A Deep Multimodal Multilabel Learning Approach
+    * Authors: Chuanbo Hu, Minglei Yin, Bin Liu, Xin Li, Yanfang Ye
+    * url: [https://dl.acm.org/doi/pdf/10.1145/3459637.3481908](https://dl.acm.org/doi/pdf/10.1145/3459637.3481908)
+
+* CIKM2021: Uncertainty-Aware Self-Training for Semi-Supervised Event Temporal Relation Extraction
+    * Authors: Pengfei Cao, Xinyu Zuo, Yubo Chen, Kang Liu, Jun Zhao, Wei Bi
+    * url: [https://dl.acm.org/doi/pdf/10.1145/3459637.3482207](https://dl.acm.org/doi/pdf/10.1145/3459637.3482207)
+
+* CIKM2021: EasyFlinkCEP: Big Event Data Analytics for Everyone
+    * Authors:  Nikos Giatrakos, Eleni Kougioumtzi, Antonios Kontaxakis, Antonios Deligiannakis, Yannis Kotidis
+    * url: [https://dl.acm.org/doi/pdf/10.1145/3459637.3482094](https://dl.acm.org/doi/pdf/10.1145/3459637.3482094)
+
+
+* CIKM2021: Multi-Sentence Argument Linking via An Event-Aware Hierarchical Encoder
+    * Authors: Hang Yang, Yubo Chen, Kang Liu, Jun Zhao, Taifeng Wang
+    * url: [https://dl.acm.org/doi/pdf/10.1145/3459637.3482148](https://dl.acm.org/doi/pdf/10.1145/3459637.3482148)
+
+* CIKM2021: Multi-Task Self-Supervised Learning for Script Event Prediction
+    * Authors: Bo Zhou, Yubo Chen, Kang Liu, Jun Zhao, Jiexin Xu, Xiaojian Jiang
+    * url: [https://dl.acm.org/doi/pdf/10.1145/3459637.3482150](https://dl.acm.org/doi/pdf/10.1145/3459637.3482150)
+
+* CIKM2021: SeDyT: A General Framework for Multi-Step Event Forecasting via Sequence Modeling on Dynamic Entity Embeddings
+   * Authors: Hongkuan Zhou, James Orme-Rogers, Rajgopal Kannan, Viktor Prasanna
+   * url: [https://dl.acm.org/doi/pdf/10.1145/3459637.3482177](https://dl.acm.org/doi/pdf/10.1145/3459637.3482177)
+
+* CIKM2021: VidLife: A Dataset for Life Event Extraction from Videos
+    * Authors: VidLife: A Dataset for Life Event Extraction from Videos
+    * url: [https://dl.acm.org/doi/pdf/10.1145/3459637.3482022](https://dl.acm.org/doi/pdf/10.1145/3459637.3482022)
+
+* EMNLP2021: Integrating Deep Event-Level and Script-Level Information for Script Event Prediction
+    * Authors: Long Bai, Saiping Guan, Jiafeng Guo, Zixuan Li, Xiaolong Jin, Xueqi Cheng
+    * url: [https://aclanthology.org/2021.emnlp-main.776.pdf](https://aclanthology.org/2021.emnlp-main.776.pdf)
+
+
+* EMNLP2021: Salience-Aware Event Chain Modeling for Narrative Understanding
+    * Authors: Xiyang Zhang, Muhao Chen, Jonathan May
+    * url: [https://aclanthology.org/2021.emnlp-main.107.pdf](https://aclanthology.org/2021.emnlp-main.107.pdf)
+
+* EMNLP2021: Incorporating Circumstances into Narrative Event Prediction
+    * Authors: Shichao Wang, Xiangrui Cai, HongBin Wang, Xiaojie Yuan
+    * url: [https://aclanthology.org/2021.findings-emnlp.416.pdf](https://aclanthology.org/2021.findings-emnlp.416.pdf)
+
+
+* EMNLP2021: Treasures Outside Contexts: Improving Event Detection via Global Statistics
+    * Authors: Rui Li, Wenlin Zhao, Cheng Yang, Sen Su
+    * url: [https://aclanthology.org/2021.emnlp-main.206.pdf](https://aclanthology.org/2021.emnlp-main.206.pdf)
+
+* EMNLP2021: Lifelong Event Detection with Knowledge Transfer
+    * Authors: Pengfei Yu, Heng Ji, Prem Natarajan
+    * url: [https://aclanthology.org/2021.emnlp-main.428.pdf](https://aclanthology.org/2021.emnlp-main.428.pdf)
+
+* EMNLP2021: Modeling Document-Level Context for Event Detection via Important Context Selection
+    * Authors: Amir Pouran Ben Veyseh, Minh Van Nguyen, Nghia Ngo Trung, Bonan Min, Thien Huu Nguyen
+    * url: [https://aclanthology.org/2021.emnlp-main.439.pdf](https://aclanthology.org/2021.emnlp-main.439.pdf)
+
+* EMNLP2021: Honey or Poison? Solving the Trigger Curse in Few-shot Event Detection via Causal Intervention
+    * Authors: Jiawei Chen, Hongyu Lin, Xianpei Han, Le Sun
+    * url: [https://aclanthology.org/2021.emnlp-main.637.pdf](https://aclanthology.org/2021.emnlp-main.637.pdf)
+
+* EMNLP2021: Learning Prototype Representations Across Few-Shot Tasks for Event Detection
+    * Authors: Viet Lai, Franck Dernoncourt, Thien Huu Nguyen
+    * url: [https://aclanthology.org/2021.emnlp-main.427.pdf](https://aclanthology.org/2021.emnlp-main.427.pdf)
+
+* EMNLP2021: Self-Attention Graph Residual Convolutional Networks for Event Detection with dependency relations
+    * Authors: Anan Liu, Ning Xu, Haozhe Liu
+    * url: [https://aclanthology.org/2021.findings-emnlp.28.pdf](https://aclanthology.org/2021.findings-emnlp.28.pdf)
+
+
+* EMNLP2021: Crosslingual Transfer Learning for Relation and Event Extraction via Word Category and Class Alignments
+    * Authors: Van Nguyen, Tuan Ngo Nguyen, Bonan Min, Thien Huu Nguyen
+    * url: [https://aclanthology.org/2021.emnlp-main.440.pdf](https://aclanthology.org/2021.emnlp-main.440.pdf)
+
+* EMNLP2021: Machine Reading Comprehension as Data Augmentation: A Case Study on Implicit Event Argument Extraction
+    * Authors: Jian Liu, Yufeng Chen, Jinan Xu
+    * url: [https://aclanthology.org/2021.emnlp-main.214.pdf](https://aclanthology.org/2021.emnlp-main.214.pdf)
+
+* EMNLP2021: ExcavatorCovid: Extracting Events and Relations from Text Corpora for Temporal and Causal Analysis for COVID-19
+    * Authors: Bonan Min, Benjamin Rozonoyer, Haoling Qiu, Alexander Zamanian, Nianwen Xue, Jessica MacBride
+    * url: [https://aclanthology.org/2021.emnlp-demo.8.pdf](https://aclanthology.org/2021.emnlp-demo.8.pdf)
+
+* EMNLP2021: Joint Multimedia Event Extraction from Video and Article
+    * Authors: Brian Chen, Xudong Lin, Christopher Thomas, Manling Li, Shoya Yoshida, Lovish Chum, Heng Ji, Shih-Fu Chang
+    * url: [https://aclanthology.org/2021.findings-emnlp.8.pdf](https://aclanthology.org/2021.findings-emnlp.8.pdf)
+
+
+* EMNLP2021: Exploring Sentence Community for Document-Level Event Extraction
+    * Authors: Yusheng Huang, Weijia Jia
+    * url: [https://aclanthology.org/2021.findings-emnlp.32.pdf](https://aclanthology.org/2021.findings-emnlp.32.pdf)
+
+* EMNLP2021: Extracting Event Temporal Relations via Hyperbolic Geometry
+    * Authors: Xingwei Tan, Gabriele Pergola, Yulan He
+    * url: [https://aclanthology.org/2021.emnlp-main.636.pdf](https://aclanthology.org/2021.emnlp-main.636.pdf)
+
+* EMNLP2021: ESTER: A Machine Reading Comprehension Dataset for Reasoning about Event Semantic Relations
+    * Authors: Rujun Han, I-Hung Hsu, Jiao Sun, Julia Baylon, Qiang Ning, Dan Roth, Nanyun Peng
+    * url: [https://aclanthology.org/2021.emnlp-main.597.pdf](https://aclanthology.org/2021.emnlp-main.597.pdf)
+
+* EMNLP2021: ECONET: Effective Continual Pretraining of Language Models for Event Temporal Reasoning
+    * Authors: Rujun Han, Xiang Ren, Nanyun Peng
+    * url: [https://aclanthology.org/2021.emnlp-main.436.pdf](https://aclanthology.org/2021.emnlp-main.436.pdf)
+
+* EMNLP2021: Utilizing Relative Event Time to Enhance Event-Event Temporal Relation Extraction
+    * Authors: Haoyang Wen, Heng Ji
+    * url: [https://aclanthology.org/2021.emnlp-main.815.pdf](https://aclanthology.org/2021.emnlp-main.815.pdf)
+
+* EMNLP2021: Event Coreference Data (Almost) for Free: Mining Hyperlinks from Online News
+    * Authors: Michael Bugert | Iryna Gurevych
+    * url: [https://aclanthology.org/2021.emnlp-main.38.pdf](https://aclanthology.org/2021.emnlp-main.38.pdf)
+
+* EMNLP2021: Conundrums in Event Coreference Resolution: Making Sense of the State of the Art
+    * Authors: Jing Lu, Vincent Ng
+    * url: [https://aclanthology.org/2021.emnlp-main.103.pdf](https://aclanthology.org/2021.emnlp-main.103.pdf)
+
+* EMNLP2021: A Comprehensive Comparison of Word Embeddings in Event & Entity Coreference Resolution.
+    * Authors: Judicael Poumay | Ashwin Ittoo
+    * url: [https://aclanthology.org/2021.findings-emnlp.235.pdf](https://aclanthology.org/2021.findings-emnlp.235.pdf)
+
+* EMNLP2021: Corpus-based Open-Domain Event Type Induction
+    * Authors: Jiaming Shen, Yunyi Zhang, Heng Ji, Jiawei Han
+    * url: [https://aclanthology.org/2021.emnlp-main.441.pdf](https://aclanthology.org/2021.emnlp-main.441.pdf)
+
+* EMNLP2021: The Future is not One-dimensional: Complex Event Schema Induction by Graph Modeling for Event Prediction
+    * Authors: Manling Li, Sha Li, Zhenhailong Wang, Lifu Huang, Kyunghyun Cho, Heng Ji, Jiawei Han, Clare Voss
+    * url: [https://aclanthology.org/2021.emnlp-main.422.pdf](https://aclanthology.org/2021.emnlp-main.422.pdf)
+
+
+* EMNLP2021: Uncertain Local-to-Global Networks for Document-Level Event Factuality Identification
+    * Authors: Pengfei Cao, Yubo Chen, Yuqing Yang, Kang Liu, Jun Zhao
+    * url: [https://aclanthology.org/2021.emnlp-main.207.pdf](https://aclanthology.org/2021.emnlp-main.207.pdf)
+
+* EMNLP2021: Learning Constraints and Descriptive Segmentation for Subevent Detection
+    * Authors: Haoyu Wang, Hongming Zhang, Muhao Chen, Dan Roth
+    * url: [https://aclanthology.org/2021.emnlp-main.423.pdf](https://aclanthology.org/2021.emnlp-main.423.pdf)

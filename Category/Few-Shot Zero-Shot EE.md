@@ -35,3 +35,15 @@
 
 * ACL2021: **Zero-shot Event Extraction via Transfer Learning: Challenges and Insights**
     * Authors: Qing Lyu, Hongming Zhang, Elior Sulem and Dan Roth
+
+* CIKM2021: Behind the Scenes: An Exploration of Trigger Biases Problem in Few-Shot Event Classification
+    * Authors: Peiyi Wang, Runxin Xu, Tianyu Liu, Damai Dai, Baobao Chang, Zhifang Sui 
+    * url: [https://dl.acm.org/doi/10.1145/3459637.3482236](https://dl.acm.org/doi/10.1145/3459637.3482236)
+
+* EMNLP2021: Honey or Poison? Solving the Trigger Curse in Few-shot Event Detection via Causal Intervention
+    * Authors: Jiawei Chen, Hongyu Lin, Xianpei Han, Le Sun
+    * url: [https://aclanthology.org/2021.emnlp-main.637.pdf](https://aclanthology.org/2021.emnlp-main.637.pdf)
+
+* EMNLP2021: Learning Prototype Representations Across Few-Shot Tasks for Event Detection
+    * Authors: Viet Lai, Franck Dernoncourt, Thien Huu Nguyen
+    * url: [https://aclanthology.org/2021.emnlp-main.427.pdf](https://aclanthology.org/2021.emnlp-main.427.pdf)

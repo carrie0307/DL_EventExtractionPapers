@@ -40,3 +40,44 @@
 * WWW2021: **Multi-level Connection Enhanced Representation Learning for Script Event Prediction**
     * Authors: Lihong Wang, Juwei Yue, Shu Guo, Jiawei Sheng, Qianren Mao, Zhenyu Chen, Shenghai Zhong and Chen Li
     * Url: [https://www2021.thewebconf.org/papers/multi-level-connection-enhanced-representation-learning-for-script-event-prediction/](https://www2021.thewebconf.org/papers/multi-level-connection-enhanced-representation-learning-for-script-event-prediction/)
+
+* CIKM2021: Multi-Task Self-Supervised Learning for Script Event Prediction
+    * Authors: Bo Zhou, Yubo Chen, Kang Liu, Jun Zhao, Jiexin Xu, Xiaojian Jiang
+    * url: [https://dl.acm.org/doi/pdf/10.1145/3459637.3482150](https://dl.acm.org/doi/pdf/10.1145/3459637.3482150)
+
+* CIKM2021: SeDyT: A General Framework for Multi-Step Event Forecasting via Sequence Modeling on Dynamic Entity Embeddings
+   * Authors: Hongkuan Zhou, James Orme-Rogers, Rajgopal Kannan, Viktor Prasanna
+   * url: [https://dl.acm.org/doi/pdf/10.1145/3459637.3482177](https://dl.acm.org/doi/pdf/10.1145/3459637.3482177)
+
+
+* EMNLP2021: Integrating Deep Event-Level and Script-Level Information for Script Event Prediction
+    * Authors: Long Bai, Saiping Guan, Jiafeng Guo, Zixuan Li, Xiaolong Jin, Xueqi Cheng
+    * url: [https://aclanthology.org/2021.emnlp-main.776.pdf](https://aclanthology.org/2021.emnlp-main.776.pdf)
+
+
+* EMNLP2021: Salience-Aware Event Chain Modeling for Narrative Understanding
+    * Authors: Xiyang Zhang, Muhao Chen, Jonathan May
+    * url: [https://aclanthology.org/2021.emnlp-main.107.pdf](https://aclanthology.org/2021.emnlp-main.107.pdf)
+
+* EMNLP2021: Incorporating Circumstances into Narrative Event Prediction
+    * Authors: Shichao Wang, Xiangrui Cai, HongBin Wang, Xiaojie Yuan
+    * url: [https://aclanthology.org/2021.findings-emnlp.416.pdf](https://aclanthology.org/2021.findings-emnlp.416.pdf)
+
+
+* EMNLP2021: Extracting Event Temporal Relations via Hyperbolic Geometry
+    * Authors: Xingwei Tan, Gabriele Pergola, Yulan He
+    * url: [https://aclanthology.org/2021.emnlp-main.636.pdf](https://aclanthology.org/2021.emnlp-main.636.pdf)
+
+* EMNLP2021: ESTER: A Machine Reading Comprehension Dataset for Reasoning about Event Semantic Relations
+    * Authors: Rujun Han, I-Hung Hsu, Jiao Sun, Julia Baylon, Qiang Ning, Dan Roth, Nanyun Peng
+    * url: [https://aclanthology.org/2021.emnlp-main.597.pdf](https://aclanthology.org/2021.emnlp-main.597.pdf)
+
+
+
+* EMNLP2021: ECONET: Effective Continual Pretraining of Language Models for Event Temporal Reasoning
+    * Authors: Rujun Han, Xiang Ren, Nanyun Peng
+    * url: [https://aclanthology.org/2021.emnlp-main.436.pdf](https://aclanthology.org/2021.emnlp-main.436.pdf)
+
+* EMNLP2021: Utilizing Relative Event Time to Enhance Event-Event Temporal Relation Extraction
+    * Authors: Haoyang Wen, Heng Ji
+    * url: [https://aclanthology.org/2021.emnlp-main.815.pdf](https://aclanthology.org/2021.emnlp-main.815.pdf)

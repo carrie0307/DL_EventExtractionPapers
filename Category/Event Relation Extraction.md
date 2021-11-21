@@ -30,6 +30,22 @@
     * Authors: Pei Chen, Kang Liu, Yubo Chen, Taifeng Wang, Jun Zhao
     * url: [https://www.aclweb.org/anthology/2021.eacl-main.175/](https://www.aclweb.org/anthology/2021.eacl-main.175/)
 
+* EMNLP2021: Extracting Event Temporal Relations via Hyperbolic Geometry
+    * Authors: Xingwei Tan, Gabriele Pergola, Yulan He
+    * url: [https://aclanthology.org/2021.emnlp-main.636.pdf](https://aclanthology.org/2021.emnlp-main.636.pdf)
+
+* EMNLP2021: ESTER: A Machine Reading Comprehension Dataset for Reasoning about Event Semantic Relations
+    * Authors: Rujun Han, I-Hung Hsu, Jiao Sun, Julia Baylon, Qiang Ning, Dan Roth, Nanyun Peng
+    * url: [https://aclanthology.org/2021.emnlp-main.597.pdf](https://aclanthology.org/2021.emnlp-main.597.pdf)
+
+* EMNLP2021: ECONET: Effective Continual Pretraining of Language Models for Event Temporal Reasoning
+    * Authors: Rujun Han, Xiang Ren, Nanyun Peng
+    * url: [https://aclanthology.org/2021.emnlp-main.436.pdf](https://aclanthology.org/2021.emnlp-main.436.pdf)
+
+* EMNLP2021: Utilizing Relative Event Time to Enhance Event-Event Temporal Relation Extraction
+    * Authors: Haoyang Wen, Heng Ji
+    * url: [https://aclanthology.org/2021.emnlp-main.815.pdf](https://aclanthology.org/2021.emnlp-main.815.pdf)
+
 
 ### ECI
 
@@ -68,3 +84,31 @@
     * Authors: KunZhao, DonghongJi, FazhiHe, YijiangLiu, YafengRen
     * url: [https://www.sciencedirect.com/science/article/abs/pii/S002002552100116X](https://www.sciencedirect.com/science/article/abs/pii/S002002552100116X)
 
+
+### Others
+
+* CIKM2021: Uncertainty-Aware Self-Training for Semi-Supervised Event Temporal Relation Extraction
+    * Authors: Pengfei Cao, Xinyu Zuo, Yubo Chen, Kang Liu, Jun Zhao, Wei Bi
+    * Links: [https://dl.acm.org/doi/pdf/10.1145/3459637.3482207](https://dl.acm.org/doi/pdf/10.1145/3459637.3482207)
+
+* EMNLP2021: Extracting Event Temporal Relations via Hyperbolic Geometry
+    * Authors: Xingwei Tan, Gabriele Pergola, Yulan He
+    * url: [https://aclanthology.org/2021.emnlp-main.636.pdf](https://aclanthology.org/2021.emnlp-main.636.pdf)
+
+* EMNLP2021: ESTER: A Machine Reading Comprehension Dataset for Reasoning about Event Semantic Relations
+    * Authors: Rujun Han, I-Hung Hsu, Jiao Sun, Julia Baylon, Qiang Ning, Dan Roth, Nanyun Peng
+    * url: [https://aclanthology.org/2021.emnlp-main.597.pdf](https://aclanthology.org/2021.emnlp-main.597.pdf)
+
+
+* EMNLP2021: ExcavatorCovid: Extracting Events and Relations from Text Corpora for Temporal and Causal Analysis for COVID-19
+    * Authors: Bonan Min, Benjamin Rozonoyer, Haoling Qiu, Alexander Zamanian, Nianwen Xue, Jessica MacBride
+    * url: [https://aclanthology.org/2021.emnlp-demo.8.pdf](https://aclanthology.org/2021.emnlp-demo.8.pdf)
+
+
+* EMNLP2021: ECONET: Effective Continual Pretraining of Language Models for Event Temporal Reasoning
+    * Authors: Rujun Han, Xiang Ren, Nanyun Peng
+    * url: [https://aclanthology.org/2021.emnlp-main.436.pdf](https://aclanthology.org/2021.emnlp-main.436.pdf)
+
+* EMNLP2021: Utilizing Relative Event Time to Enhance Event-Event Temporal Relation Extraction
+    * Authors: Haoyang Wen, Heng Ji
+    * url: [https://aclanthology.org/2021.emnlp-main.815.pdf](https://aclanthology.org/2021.emnlp-main.815.pdf)
