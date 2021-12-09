@@ -1,51 +1,83 @@
-## Dataset
+# Dataset
 
-* ACL2017: **Automatically Labeled Data Generation for Large Scale Event Extraction**
-    * Author: Chen, Yubo  and   Liu, Shulin  and Zhang, Xiang  and
-Liu, Kang  and Zhao, Jun
-    * url: [https://www.aclweb.org/anthology/P17-1038](https://www.aclweb.org/anthology/P17-1038)
-    * Code: [https://github.com/acl2017submission/event-data](https://github.com/acl2017submission/event-data)
-    * Released Dataset: [https://github.com/acl2017submission/event-data/releases](https://github.com/acl2017submission/event-data/releases)
+## Sentence-level EE
 
+* **ACE2005** 
+    * [Link](https://catalog.ldc.upenn.edu/LDC2006T06)
 
-* ACL2018: **DCFFE: A Document-level Chinese Financial Event Extraction System based on Automatically Labelled Training Data**
-    * Author: Yang, Hang  and Chen, Yubo  and Liu, Kang  and Xiao, Yang  and Zhao, Jun
-    * url: [https://www.aclweb.org/anthology/P18-4009](https://www.aclweb.org/anthology/P18-4009)
-    * code: [https://github.com/yanghang111/DCFEE](https://github.com/yanghang111/DCFEE)
-    * Released Dataset: [https://github.com/yanghang111/DCFEE](https://github.com/yanghang111/DCFEE)
+* **KBP2017** 
+    *   [Link](https://tac.nist.gov/2017/KBP/)
 
+* **MAVEN** 
+    * Time: EMNLP2020
+    * Paper: [MAVEN: A Massive General Domain Event Detection Dataset](https://aclanthology.org/2020.emnlp-main.129/)
+    * Link: [https://github.com/THU-KEG/MAVEN-dataset](https://github.com/THU-KEG/MAVEN-dataset)
 
-* EMNLP2019: **Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction**
-    * Author: Shun Zheng, Wei Cao, Wei Xu, Jiang Bian
-    * url: [https://www.aclweb.org/anthology/D19-1032/](https://www.aclweb.org/anthology/D19-1032/)
-    * Released Dataset: [https://github.com/dolphin-zs/Doc2EDAG](https://github.com/dolphin-zs/Doc2EDAG)
+* **FewED**
+    * Time: WSDM2020
+    * Paper: [Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection](https://dl.acm.org/doi/abs/10.1145/3336191.3371796)
+    * Link: [https://github.com/231sm/Low_Resource_KBP](https://github.com/231sm/Low_Resource_KBP)
 
 
-* WSDM2020: **Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection**
-    * Authors: Shumin Deng, Ningyu Zhang, Jiaojian Kang, Yichi Zhang, Wei Zhang, Huajun Chen
-    * url: [https://arxiv.org/abs/1910.11621](https://arxiv.org/abs/1910.11621)
-    * Released Dataset: [https://github.com/231sm/Low_Resource_KBP](https://github.com/231sm/Low_Resource_KBP)
+* **FMC**
+    * Time: IJCAI2020
+    * Paper: [F-HMTC: Detecting Financial Events for Investment Decisions Based on Neural Hierarchical Multi-Label Text Classification](https://www.ijcai.org/proceedings/2020/0619.pdf)
+    * Link: [https://github.com/finint/F-HMTC](https://github.com/finint/F-HMTC) 
 
-* IJCAI2020: **F-HMTC: Detecting Financial Events for Investment Decisions Based on Neural Hierarchical Multi-Label Text Classification**
-    * Authors: Xin Liang, Dawei Cheng, Fangzhou Yang, Yifeng Luo, Weining Qian, Aoying Zhou
-    * url: [https://www.ijcai.org/Proceedings/2020/619](https://www.ijcai.org/Proceedings/2020/619)
-    * Released Dataset: [https://github.com/finint/F-HMTC](https://github.com/finint/F-HMTC)
+* **CySecED**
+    * Time: EMNLP2020 
+    * Paper: [Introducing a New Dataset for Event Detection in Cybersecurity Texts](https://aclanthology.org/2020.emnlp-main.433.pdf)
 
-* ACL2020: Multi-Sentence Argument Linking
-    * Authors: Seth Ebner, Patrick Xia, Ryan Culkin, Kyle Rawlins, Benjamin Van DurmeA
-    * url: [https://www.aclweb.org/anthology/2020.acl-main.718/](https://www.aclweb.org/anthology/2020.acl-main.718/)
-    * Released Dataset: [https://nlp.jhu.edu/rams/](https://nlp.jhu.edu/rams/)
+* **CASIE**
+    * Time: AAAI2020
+    * Paper: [CASIE: Extracting Cybersecurity Event Information from Text](https://link.zhihu.com/?target=https%3A//aaai.org/ojs/index.php/AAAI/article/view/6401/6257)
+    * Link: [https://github.com/Ebiquity/CASIE](https://github.com/Ebiquity/CASIE)
 
-* EMNLP2020: **Introducing a New Dataset for Event Detection in Cybersecurity Texts**
-    * Authors: Hieu Man Duc Trong, Duc Trong Le, Amir Pouran Ben Veyseh, Thuat Nguyen and Thien Huu Nguyen
-    * url: [https://www.aclweb.org/anthology/2020.emnlp-main.433](https://www.aclweb.org/anthology/2020.emnlp-main.433)
+* **Dealogue EE**
+    * Time: Proceedings of the First Joint Workshop on Narrative Understanding, Storylines, and Events, 2020
+    * Paper: [Automatic extraction of personal events from dialogue](https://aclanthology.org/2020.nuse-1.8.pdf)
+    * Link: [https://www.artie.com/data/personaleventsindialogue/](https://www.artie.com/data/personaleventsindialogue/) 
 
-* EMNLP2020: **MAVEN: A Massive General Domain Event Detection Dataset**
-    * Authors: Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin, Jie Zhou
-    * url: [https://arxiv.org/abs/2004.13590]https://arxiv.org/abs/2004.13590
-    * code: [https://github.com/THU-KEG/MAVEN-dataset](https://github.com/THU-KEG/MAVEN-dataset)
+* **Genia Event Extraction (GE)**
+    * Time: 2011
+    * Link: [http://bionlp-st.dbcls.jp/GE/2011/eval-test/](http://bionlp-st.dbcls.jp/GE/2011/eval-test/) 
+
+* **Commodity News Corpus for Event Extraction**
+    * Time: 2021
+    * Paper: [An Annotated Commodity News Corpus for Event Extraction](https://arxiv.org/pdf/2105.08214.pdf)
+    * Link: [https://github.com/meisin/Commodity-News-Event-Extraction](https://github.com/meisin/Commodity-News-Event-Extraction)
 
 
+## Doc-level EE
+
+* **MUC4**
+    * [Link](https://www-nlpir.nist.gov/related_projects/muc/muc_data/muc_data_index.html)
+    
+* **DCFEE**
+    * Time: ACL2018  
+    * Paper: [DCFEE: A Document-level Chinese Financial Event Extraction System based on Automatically Labeled Training Data ](https://aclanthology.org/P18-4009/)
+    * Link: [https://github.com/yanghang111/DCFEE](https://github.com/yanghang111/DCFEE)
+
+* **ChFinAnn**
+    * Time: EMNLP2019
+    * Paper: [Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction](https://www.aclweb.org/anthology/D19-1032/)
+    * Link:  [https://github.com/dolphin-zs/Doc2EDAG](https://github.com/dolphin-zs/Doc2EDAG)
+    
+* **RAMS**
+    * Time: ACL2020
+    * Paper: [Multi-Sentence Argument Linking](https://www.aclweb.org/anthology/2020.acl-main.718/)
+    * Link: [https://nlp.jhu.edu/rams/](https://nlp.jhu.edu/rams/)
+
+
+* **WIKIEVENTS**
+    * Time: NAACL2021
+    *  Paper: [Document-Level Event Argument Extraction by Conditional Generation](https://aclanthology.org/2021.naacl-main.69)
+    * Link: [https://github.com/raspberryice/gen-arg](https://github.com/raspberryice/gen-arg)
+
+
+
+
+## Others
 
 * NAACL2021: **WEC Deriving a Large-scale Cross-document Event Coreference dataset from Wikipedia**
     * Authors: Alon Eirew, Arie Cattan, Ido Dagan
