@@ -38,14 +38,31 @@
     * Paper: [Automatic extraction of personal events from dialogue](https://aclanthology.org/2020.nuse-1.8.pdf)
     * Link: [https://www.artie.com/data/personaleventsindialogue/](https://www.artie.com/data/personaleventsindialogue/) 
 
-* **Genia Event Extraction (GE)**
-    * Time: 2011
-    * Link: [http://bionlp-st.dbcls.jp/GE/2011/eval-test/](http://bionlp-st.dbcls.jp/GE/2011/eval-test/) 
 
 * **Commodity News Corpus for Event Extraction**
     * Time: 2021
     * Paper: [An Annotated Commodity News Corpus for Event Extraction](https://arxiv.org/pdf/2105.08214.pdf)
     * Link: [https://github.com/meisin/Commodity-News-Event-Extraction](https://github.com/meisin/Commodity-News-Event-Extraction)
+
+* **Few-shot Financial Chinese event extraction datase**
+	* Link: [https://github.com/TimeBurningFish/FewFC](https://github.com/TimeBurningFish/FewFC)
+
+* **DuEE**
+	* Time: NLPCC2020
+	* Paper: [DuEE: A Large-Scale Dataset for Chinese Event Extraction in Real-World Scenarios](https://link.springer.com/chapter/10.1007/978-3-030-60457-8_44)
+	* Link: [https://ai.baidu.com/broad/subordinate?dataset=duee](https://ai.baidu.com/broad/subordinate?dataset=duee)
+
+* **Genia Event Extraction (GE)**
+	* Time: 2011
+	* Link: [http://bionlp-st.dbcls.jp/GE/2011/eval-test/](http://bionlp-st.dbcls.jp/GE/2011/eval-test/) 
+
+* **TimeBank**
+	* Link: [https://catalog.ldc.upenn.edu/LDC2006T08](https://catalog.ldc.upenn.edu/LDC2006T08) 
+
+* **LitBank**
+	* Time: ACL2019
+	* Paper: [https://aclanthology.org/P19-1353/](https://aclanthology.org/P19-1353/)
+	* Link: [https://github.com/dbamman/litbank](https://github.com/dbamman/litbank) 
 
 
 ## Doc-level EE
