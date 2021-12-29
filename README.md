@@ -838,6 +838,10 @@ https://arxiv.org/pdf/1712.03665.pdf)
     * Authors: VidLife: A Dataset for Life Event Extraction from Videos
     * url: [https://dl.acm.org/doi/pdf/10.1145/3459637.3482022](https://dl.acm.org/doi/pdf/10.1145/3459637.3482022)
 
+* EMNLP2021: Enhanced Language Representation with Label Knowledge for Span Extraction
+   * Authors: Pan Yang, Xin Cong, Zhenyun Sun, Xingwu Liu
+   * url: [https://aclanthology.org/2021.emnlp-main.379](https://aclanthology.org/2021.emnlp-main.379)
+
 * EMNLP2021: Integrating Deep Event-Level and Script-Level Information for Script Event Prediction
     * Authors: Long Bai, Saiping Guan, Jiafeng Guo, Zixuan Li, Xiaolong Jin, Xueqi Cheng
     * url: [https://aclanthology.org/2021.emnlp-main.776.pdf](https://aclanthology.org/2021.emnlp-main.776.pdf)
