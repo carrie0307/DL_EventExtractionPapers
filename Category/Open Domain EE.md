@@ -36,3 +36,10 @@
 * ACL2020: **Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation**
     * Authors: Aakanksha Naik, Carolyn Rose
     * url: [https://www.aclweb.org/anthology/2020.acl-main.681/](https://www.aclweb.org/anthology/2020.acl-main.681/)
+
+* EMNLP2021: **Corpus-based Open-Domain Event Type Induction**
+    * Authors: Jiaming Shen, Yunyi Zhang, Heng Ji, Jiawei Han
+    * url: [https://aclanthology.org/2021.emnlp-main.441.pdf](https://aclanthology.org/2021.emnlp-main.441.pdf)
+
+* NAACL2022: Event Schema Induction with Double Graph Autoencoders
+    * Authors: Xiaomeng Jin, Manling Li, Heng Ji

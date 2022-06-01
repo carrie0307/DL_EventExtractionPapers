@@ -91,7 +91,10 @@
     *  Paper: [Document-Level Event Argument Extraction by Conditional Generation](https://aclanthology.org/2021.naacl-main.69)
     * Link: [https://github.com/raspberryice/gen-arg](https://github.com/raspberryice/gen-arg)
 
-
+* **DocEE**
+    * Time: NAACL2022
+    * Paper: **DocEE: A Large-Scale and Fine-grained Benchmark for Document-level Event Extraction**
+    * Authors: MeiHan Tong, Bin Xu, Shuai Wang, Meihuan Han, Yixin Cao, Jiangqi Zhu, Siyu Chen, Lei Hou, Juanzi Li
 
 
 ## Others
@@ -108,3 +111,15 @@
 * EMNLP2021: ESTER: A Machine Reading Comprehension Dataset for Reasoning about Event Semantic Relations
     * Authors: Rujun Han, I-Hung Hsu, Jiao Sun, Julia Baylon, Qiang Ning, Dan Roth, Nanyun Peng
     * url: [https://aclanthology.org/2021.emnlp-main.597.pdf](https://aclanthology.org/2021.emnlp-main.597.pdf)
+
+
+* ACL2022-findings: **LEVEN: A Large-Scale Chinese Legal Event Detection Dataset**
+    * Authors: Feng Yao, Chaojun Xiao, Xiaozhi Wang, Zhiyuan Liu, Lei Hou, Cunchao Tu, Juanzi Li, Yun Liu, Weixing Shen, Maosong Sun
+    * url: [https://aclanthology.org/2022.findings-acl.17/](https://aclanthology.org/2022.findings-acl.17/)
+
+* NAACL2022: MINION: a Large-Scale and Diverse Dataset for Multilingual Event Detection
+    * Authors: Amir Pouran Ben Veyseh, Minh Van Nguyen, Franck Dernoncourt, Thien Huu Nguyen
+
+* NAACL2022: **ScAN: Suicide Attempt and Ideation Events Dataset**
+    * Authors: Bhanu Pratap Singh Rawat, Samuel Kovaly, Wilfred R. Pigeon, Hong Yu
+    * url: [https://arxiv.org/abs/2205.07872](https://arxiv.org/abs/2205.07872)

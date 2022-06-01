@@ -81,3 +81,7 @@
 * EMNLP2021: Utilizing Relative Event Time to Enhance Event-Event Temporal Relation Extraction
     * Authors: Haoyang Wen, Heng Ji
     * url: [https://aclanthology.org/2021.emnlp-main.815.pdf](https://aclanthology.org/2021.emnlp-main.815.pdf)
+
+* ACL2022-findings: **A Graph Enhanced BERT Model for Event Prediction**
+    * Authors: Li Du, Xiao Ding, Yue Zhang, ting liu, Bing Qin
+    * url: [https://aclanthology.org/2022.findings-acl.206/](https://aclanthology.org/2022.findings-acl.206/)

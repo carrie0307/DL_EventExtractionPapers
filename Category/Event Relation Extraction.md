@@ -30,22 +30,30 @@
     * Authors: Pei Chen, Kang Liu, Yubo Chen, Taifeng Wang, Jun Zhao
     * url: [https://www.aclweb.org/anthology/2021.eacl-main.175/](https://www.aclweb.org/anthology/2021.eacl-main.175/)
 
-* EMNLP2021: Extracting Event Temporal Relations via Hyperbolic Geometry
+* EMNLP2021: **Extracting Event Temporal Relations via Hyperbolic Geometry**
     * Authors: Xingwei Tan, Gabriele Pergola, Yulan He
     * url: [https://aclanthology.org/2021.emnlp-main.636.pdf](https://aclanthology.org/2021.emnlp-main.636.pdf)
 
-* EMNLP2021: ESTER: A Machine Reading Comprehension Dataset for Reasoning about Event Semantic Relations
+* EMNLP2021: **ESTER: A Machine Reading Comprehension Dataset for Reasoning about Event Semantic Relations**
     * Authors: Rujun Han, I-Hung Hsu, Jiao Sun, Julia Baylon, Qiang Ning, Dan Roth, Nanyun Peng
     * url: [https://aclanthology.org/2021.emnlp-main.597.pdf](https://aclanthology.org/2021.emnlp-main.597.pdf)
 
-* EMNLP2021: ECONET: Effective Continual Pretraining of Language Models for Event Temporal Reasoning
+* EMNLP2021: **ECONET: Effective Continual Pretraining of Language Models for Event Temporal Reasoning**
     * Authors: Rujun Han, Xiang Ren, Nanyun Peng
     * url: [https://aclanthology.org/2021.emnlp-main.436.pdf](https://aclanthology.org/2021.emnlp-main.436.pdf)
 
-* EMNLP2021: Utilizing Relative Event Time to Enhance Event-Event Temporal Relation Extraction
+* EMNLP2021: **Utilizing Relative Event Time to Enhance Event-Event Temporal Relation Extraction**
     * Authors: Haoyang Wen, Heng Ji
     * url: [https://aclanthology.org/2021.emnlp-main.815.pdf](https://aclanthology.org/2021.emnlp-main.815.pdf)
 
+
+* AAAI2022:  **Selecting Optimal Context Sentences for Event-Event Relation Extraction**
+    * Authors: Hieu Man Duc Trong, Nghia Ngo Trung, Linh Van Ngo, Thien Huu Nguyen
+    * url: [https://www.aaai.org/AAAI22Papers/AAAI-3912.ManH.pdf](https://www.aaai.org/AAAI22Papers/AAAI-3912.ManH.pdf)
+
+* ICASSP2022: **A Knowledge/Data Enhanced Method for Joint Event and Temporal Relation Extraction**
+    * Authors: Xiaobin Zhang; Liangjun Zang; Peng Cheng; Yuqi Wang; Songlin Hu
+    * url: [https://ieeexplore.ieee.org/document/9746259](https://ieeexplore.ieee.org/document/9746259)
 
 ### ECI
 
@@ -67,7 +75,8 @@
     * Authors: Xinyu Zuo, Yubo Chen, Kang Liu, Jun Zhao
     * url: [https://www.aclweb.org/anthology/2020.ccl-1.84/](https://www.aclweb.org/anthology/2020.ccl-1.84/)
 
-
+* SIGIR2022: **Towards Event-level Causal Relation Identification**
+    * Authors: Chuang Fan, Daoxing Liu, Libo Qin, Yue Zhang and Ruifeng Xu
 
 
 ### Doc-level ECI
@@ -112,3 +121,7 @@
 * EMNLP2021: Utilizing Relative Event Time to Enhance Event-Event Temporal Relation Extraction
     * Authors: Haoyang Wen, Heng Ji
     * url: [https://aclanthology.org/2021.emnlp-main.815.pdf](https://aclanthology.org/2021.emnlp-main.815.pdf)
+
+* NAACL2022-findings: **Extracting Temporal Event Relation with Syntax-guided Graph Transformer**
+    * Authors: SHUAICHENG ZHANG, Qiang Ning, Lifu Huang
+    * url: [https://arxiv.org/abs/2104.09570v1](https://arxiv.org/abs/2104.09570v1)
