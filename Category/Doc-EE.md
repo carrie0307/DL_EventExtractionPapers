@@ -43,6 +43,10 @@
 * ACL2021: **Document-level Event Extraction via Parallel Prediction Networks**
     * Authors: Hang Yang, Dianbo Sui, Yubo Chen, Kang Liu, Jun Zhao and Taifeng Wang
 
+* EMNLP2021: Exploring Sentence Community for Document-Level Event Extraction
+    * Authors: Yusheng Huang, Weijia Jia
+    * url: [https://aclanthology.org/2021.findings-emnlp.32.pdf](https://aclanthology.org/2021.findings-emnlp.32.pdf)
+
 * IJCAI2022: **Efficient Document-level Event Extraction via Pseudo-Trigger-aware Pruned Complete Graph**
     * Authors: Tong Zhu, Xiaoye Qu, Wenliang Chen, Zhefeng Wang, Baoxing Huai, Nicholas Yuan, Min Zhang
     * url: [https://arxiv.org/abs/2112.06013](https://arxiv.org/abs/2112.06013)
@@ -50,6 +54,10 @@
 * ICASSP2022: **Document-Level Event Extraction via Human-Like Reading Process**
     * Authors: Shiyao Cui, Xin Cong, Bowen Yu, Tingwen Liu, Yucheng Wang, Jinqiao Shi
     * url: [https://ieeexplore.ieee.org/document/9747721/](https://ieeexplore.ieee.org/document/9747721/)
+
+
+* NAACL2022: **RAAT: Relation-Augmented Attention Transformer for Relation Modeling in Document-Level Event Extraction**
+    * Authors: Yuan Liang, Zhuoxuan Jiang, di yin, Bo Ren
 
 ### RAMS-dataset-based
 
@@ -71,10 +79,6 @@
     * Authors: Jian Liu, Yufeng Chen, Jinan Xu
     * url: [https://aclanthology.org/2021.emnlp-main.214.pdf](https://aclanthology.org/2021.emnlp-main.214.pdf)
 
-* EMNLP2021: Exploring Sentence Community for Document-Level Event Extraction
-    * Authors: Yusheng Huang, Weijia Jia
-    * url: [https://aclanthology.org/2021.findings-emnlp.32.pdf](https://aclanthology.org/2021.findings-emnlp.32.pdf)
-
 * IJCAI2022: CUP: Curriculum Learning based Prompt Tuning for Implicit Event Argument Extraction
     * Authors: Jiaju Lin, Qin Chen, Jie Zhou, Jian Jin, Liang He
     * url: [https://arxiv.org/abs/2205.00498v1](https://arxiv.org/abs/2205.00498v1)
@@ -82,9 +86,6 @@
 * NAACL2022: **A Two-Stream AMR-enhanced Model for Document-level Event Argument Extraction** 
     * Authors: Runxin Xu, Peiyi Wang, Tianyu Liu, Shuang Zeng, Baobao Chang, Zhifang Sui
     * url: [https://arxiv.org/abs/2205.00241](https://arxiv.org/abs/2205.00241)
-
-* NAACL2022: **RAAT: Relation-Augmented Attention Transformer for Relation Modeling in Document-Level Event Extraction**
-    * Authors: Yuan Liang, Zhuoxuan Jiang, di yin, Bo Ren
 
 ### WikiEvents
 
