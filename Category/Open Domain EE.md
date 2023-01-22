@@ -43,3 +43,6 @@
 
 * NAACL2022: Event Schema Induction with Double Graph Autoencoders
     * Authors: Xiaomeng Jin, Manling Li, Heng Ji
+
+* EMNLP2022: **Title2Event: Benchmarking Open Event Extraction with a Large-scale Chinese Title Dataset**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.437/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.437/)
