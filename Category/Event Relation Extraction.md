@@ -70,13 +70,21 @@
 * ACL2021: **From Discourse to Narrative: Knowledge Projection for Event Relation Extraction**
     * Authors: Jialong Tang, Hongyu Lin, Meng Liao, Yaojie Lu, Xianpei Han, Le Sun, Weijian Xie and Jin Xu
 
-
 * CCL2021: **Towards Causal Explanation Detection with Pyramid Salient-Aware Network**
     * Authors: Xinyu Zuo, Yubo Chen, Kang Liu, Jun Zhao
     * url: [https://www.aclweb.org/anthology/2020.ccl-1.84/](https://www.aclweb.org/anthology/2020.ccl-1.84/)
 
 * SIGIR2022: **Towards Event-level Causal Relation Identification**
     * Authors: Chuang Fan, Daoxing Liu, Libo Qin, Yue Zhang and Ruifeng Xu
+
+* COLING2022: **Event Causality Identification via Derivative Prompt Joint Learning**
+    * url: [https://aclanthology.org/2022.coling-1.200/](https://aclanthology.org/2022.coling-1.200/)
+
+* COLING2022: **Event Causality Extraction with Event Argument Correlations**
+    * url: [https://aclanthology.org/2022.coling-1.201/](https://aclanthology.org/2022.coling-1.201/)
+
+* COLING2022: **MECI: A Multilingual Dataset for Event Causality Identification**
+    * url: [https://aclanthology.org/2022.coling-1.206/](https://aclanthology.org/2022.coling-1.206/)
 
 
 ### Doc-level ECI
@@ -93,6 +101,9 @@
     * Authors: KunZhao, DonghongJi, FazhiHe, YijiangLiu, YafengRen
     * url: [https://www.sciencedirect.com/science/article/abs/pii/S002002552100116X](https://www.sciencedirect.com/science/article/abs/pii/S002002552100116X)
 
+* COLING2022: **ERGO: Event Relational Graph Transformer for Document-level Event Causality Identification**
+    * url: [https://aclanthology.org/2022.coling-1.185/](https://aclanthology.org/2022.coling-1.185/)
+
 
 ### Others
 
@@ -101,7 +112,7 @@
     * Links: [https://dl.acm.org/doi/pdf/10.1145/3459637.3482207](https://dl.acm.org/doi/pdf/10.1145/3459637.3482207)
 
 * EMNLP2021: Extracting Event Temporal Relations via Hyperbolic Geometry
-    * Authors: Xingwei Tan, Gabriele Pergola, Yulan He
+    * Authors: Xingwei Tan, Gabriele Pergola, Yulan He8
     * url: [https://aclanthology.org/2021.emnlp-main.636.pdf](https://aclanthology.org/2021.emnlp-main.636.pdf)
 
 * EMNLP2021: ESTER: A Machine Reading Comprehension Dataset for Reasoning about Event Semantic Relations
@@ -125,3 +136,9 @@
 * NAACL2022-findings: **Extracting Temporal Event Relation with Syntax-guided Graph Transformer**
     * Authors: SHUAICHENG ZHANG, Qiang Ning, Lifu Huang
     * url: [https://arxiv.org/abs/2104.09570v1](https://arxiv.org/abs/2104.09570v1)
+
+* EMNLP2022: **Cross-document Event Coreference Search: Task, Dataset and Modeling**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.58/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.58/)
+
+* EMNLP2022: **MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference, Temporal, Causal, and Subevent Relation Extraction**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.60/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.60/)

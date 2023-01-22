@@ -1138,3 +1138,36 @@ https://arxiv.org/pdf/1712.03665.pdf)
 * NAACL2022-findings: **Extracting Temporal Event Relation with Syntax-guided Graph Transformer**
     * Authors: SHUAICHENG ZHANG, Qiang Ning, Lifu Huang
     * url: [https://arxiv.org/abs/2104.09570v1](https://arxiv.org/abs/2104.09570v1)
+
+* COLING2022: **Augmentation, Retrieval, Generation: Event Sequence Prediction with a Three-Stage Sequence-to-Sequence Approach**
+    * url: [https://aclanthology.org/2022.coling-1.161/](https://aclanthology.org/2022.coling-1.161/)
+
+* COLING2022: **Generating Temporally-ordered Event Sequences via Event Optimal Transport**
+    * url: [https://aclanthology.org/2022.coling-1.162/](https://aclanthology.org/2022.coling-1.162/)
+
+* COLING2022: **KiPT: Knowledge-injected Prompt Tuning for Event Detection**
+    * url: [https://aclanthology.org/2022.coling-1.169/](https://aclanthology.org/2022.coling-1.169/)
+
+* COLING2022: **OneEE: A One-Stage Framework for Fast Overlapping and Nested Event Extraction**
+    * url: [https://aclanthology.org/2022.coling-1.170/](https://aclanthology.org/2022.coling-1.170/)
+
+* COLING2022: **Event Detection with Dual Relational Graph Attention Networks**
+    * url: [https://aclanthology.org/2022.coling-1.172/](https://aclanthology.org/2022.coling-1.172/)
+
+* COLING2022: **A Multi-Format Transfer Learning Model for Event Argument Extraction via Variational Information Bottleneck**
+    * url: [https://aclanthology.org/2022.coling-1.173/](https://aclanthology.org/2022.coling-1.173/)
+
+* COLING2022: **ERGO: Event Relational Graph Transformer for Document-level Event Causality Identification**
+    * url: [https://aclanthology.org/2022.coling-1.185/](https://aclanthology.org/2022.coling-1.185/)
+
+* COLING2022: **Incremental Prompting: Episodic Memory Prompt for Lifelong Event Detection**
+    * url: [https://aclanthology.org/2022.coling-1.189/](https://aclanthology.org/2022.coling-1.189/)
+
+* COLING2022: **Event Causality Identification via Derivative Prompt Joint Learning**
+    * url: [https://aclanthology.org/2022.coling-1.200/](https://aclanthology.org/2022.coling-1.200/)
+
+* COLING2022: **Event Causality Extraction with Event Argument Correlations**
+    * url: [https://aclanthology.org/2022.coling-1.201/](https://aclanthology.org/2022.coling-1.201/)
+
+* COLING2022: **MECI: A Multilingual Dataset for Event Causality Identification**
+    * url: [https://aclanthology.org/2022.coling-1.206/](https://aclanthology.org/2022.coling-1.206/)

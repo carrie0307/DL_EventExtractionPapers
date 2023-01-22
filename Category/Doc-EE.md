@@ -127,3 +127,10 @@
 
 * NAACL2022: **Document-Level Event Argument Extraction by Leveraging Redundant Information and Closed Boundary Loss**
     * Authors: Hanzhang Zhou, Kezhi Mao
+
+* NAACL2022: **A Two-Stream AMR-enhanced Model for Document-level Event Argument Extraction** 
+    * Authors: Runxin Xu, Peiyi Wang, Tianyu Liu, Shuang Zeng, Baobao Chang, Zhifang Sui
+    * url: [https://arxiv.org/abs/2205.00241](https://arxiv.org/abs/2205.00241)
+
+* COLING2022: **CLIO: Role-interactive Multi-event Head Attention Network for Document-level Event Extraction**
+    * url: [https://aclanthology.org/2022.coling-1.221/](https://aclanthology.org/2022.coling-1.221/)
