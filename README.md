@@ -1171,3 +1171,99 @@ https://arxiv.org/pdf/1712.03665.pdf)
 
 * COLING2022: **MECI: A Multilingual Dataset for Event Causality Identification**
     * url: [https://aclanthology.org/2022.coling-1.206/](https://aclanthology.org/2022.coling-1.206/)
+    
+* COLING2022: **DESED: Dialogue-based Explanation for Sentence-level Event Detection**
+    * url: [https://aclanthology.org/2022.coling-1.219.pdf](https://aclanthology.org/2022.coling-1.219.pdf)
+
+* COLING2022: **CLIO: Role-interactive Multi-event Head Attention Network for Document-level Event Extraction**
+    * url: [https://aclanthology.org/2022.coling-1.221/](https://aclanthology.org/2022.coling-1.221/)
+
+* COLING2022: **Document-level Event Factuality Identification via Machine Reading Comprehension Frameworks with Transfer Learning**
+    * url: [https://aclanthology.org/2022.coling-1.231/](https://aclanthology.org/2022.coling-1.231/)
+
+* COLING2022: **Unregulated Chinese-to-English Data Expansion Does NOT Work for Neural Event Detection**
+    * url: [https://aclanthology.org/2022.coling-1.232/](https://aclanthology.org/2022.coling-1.232/)
+
+* COLING2022: **Text-to-Text Extraction and Verbalization of Biomedical Event Graphs**
+    * url: [https://aclanthology.org/2022.coling-1.238/](https://aclanthology.org/2022.coling-1.238/)
+
+* COLING2022: **Extracting a Knowledge Base of COVID-19 Events from Social Media**
+    * url: [https://aclanthology.org/2022.coling-1.335/](https://aclanthology.org/2022.coling-1.335/)
+
+* COLING2022: **Event Extraction in Video Transcripts**
+    * url: [https://aclanthology.org/2022.coling-1.625/](https://aclanthology.org/2022.coling-1.625/)
+
+* COLING2022: **Investigating Cross-Document Event Coreference for Dutch**
+    * url: [https://aclanthology.org/2022.crac-1.9/](https://aclanthology.org/2022.crac-1.9/)
+
+* EMNLP2022: **Cross-document Event Coreference Search: Task, Dataset and Modeling**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.58/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.58/)
+
+* EMNLP2022: **MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference, Temporal, Causal, and Subevent Relation Extraction**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.60/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.60/)
+
+* EMNLP2022: **SubeventWriter: Iterative Sub-event Sequence Generation with Coherence Controller**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.103/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.103/)
+
+* EMNLP2022: **EvEntS ReaLM: Event Reasoning of Entity States via Language Models**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.129/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.129/)
+
+* EMNLP2022: **Transfer Learning from Semantic Role Labeling to Event Argument Extraction with Template-based Slot Querying**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.169/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.169/)
+
+* EMNLP2022: **MUSIED: A Benchmark for Event Detection from Multi-Source Heterogeneous Informal Texts**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.191/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.191/)
+
+* EMNLP2022: **Retrieval-Augmented Generative Question Answering for Event Argument Extraction**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.307/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.307/)
+
+* EMNLP2022: **PHEE: A Dataset for Pharmacovigilance Event Extraction from Text**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.376/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.376/)
+
+* EMNLP2022: **Bi-Directional Iterative Prompt-Tuning for Event Argument Extraction**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.419/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.419/)
+
+* EMNLP2022: **Title2Event: Benchmarking Open Event Extraction with a Large-scale Chinese Title Dataset**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.437/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.437/)
+
+* EMNLP2022: **Improving Event Coreference Resolution Using Document-level and Topic-level Information**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.454/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.454/)
+
+* EMNLP2022: **Open Relation and Event Type Discovery with Type Abstraction**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.461/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.461/)
+
+* EMNLP2022: **Learning Cross-Task Dependencies for Joint Extraction of Entities, Events, Event Arguments, and Relations**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.634/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.634/)
+
+* EMNLP2022: **MEE: A Novel Multilingual Event Extraction Dataset**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.652/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.652/)
+
+* EMNLP2022-Findings: **Extracting Trigger-sharing Events via an Event Matrix**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.85/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.85/)
+
+* EMNLP2022-Findings: **HCL-TAT: A Hybrid Contrastive Learning Method for Few-shot Event Detection with Task-Adaptive Threshold**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.130/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.130/)
+
+* EMNLP2022-Findings: **Explicit Role Interaction Network for Event Argument Extraction**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.254/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.254/)
+
+* EMNLP2022-Findings: **Mask-then-Fill: A Flexible and Effective Data Augmentation Framework for Event Extraction**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.332/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.332/)
+
+* EMNLP2022-Findings: **Open-Vocabulary Argument Role Prediction For Event Extraction**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.395/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.395/)
+
+* EMNLP2022-Findings: **CrisisLTLSum: A Benchmark for Local Crisis Event Timeline Extraction and Summarization**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.400/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.400/)
+
+* EMNLP2022-Findings: **EtriCA: Event-Triggered Context-Aware Story Generation Augmented by Cross Attention**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.403/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.403/)
+
+* EMNLP2022-Findings: **Multilingual SubEvent Relation Extraction: A Novel Dataset and Structure Induction Method**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.407/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.407/)
+
+* EMNLP2022-Findings: **Knowledge-Enhanced Self-Supervised Prototypical Network for Few-Shot Event Detection**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.467/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.467/)
+
+* EMNLP2022-Findings: **Efficient Zero-shot Event Extraction with Context-Definition Alignment**
+    * url: [https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.531/](https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.531/)
