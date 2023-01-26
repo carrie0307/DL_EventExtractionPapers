@@ -27,19 +27,21 @@ Integrating Order Information and Event Relation for Script Event Prediction [[p
 (i) a sentence similarity task, (ii) a new hard similarity task, and (iii) an event prediction task (two variants of the narrative cloze)
 Transitive Sentence Similarity, Hard Similarity Task, MCNC, Generating Event Schemas (Nearest Neighbor Schema Generation)
 
-### Event-segment based
+### Event-chain based
+
+#### Event-segment based
 * AAAI2019: 
 SAM-Net: Integrating event-level and chain-level attentions to predict what happens next [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4655)
 
 
-### Event-chain based
+#### Event-chain based
 
 * WWW2021: Multi-level Connection Enhanced Representation Learning for Script Event Prediction [[paper]](https://dl.acm.org/doi/10.1145/3442381.3449894)
 
 * IJIS: What happens next? Combining enhanced multilevel script learning and dual fusion strategies for script event prediction [[paper]](https://onlinelibrary.wiley.com/doi/10.1002/int.23025?af=R)[[code]](https://github.com/xianhuaxizi/EMDF-Net)
 
 
-#### Event-graph based
+### Event-graph based
 
 * IJCAI2018: 
 Constructing Narrative Event Evolutionary Graph for Script Event Prediction [[paper]](https://www.ijcai.org/Proceedings/2018/0584) [[code]](https://github.com/eecrazy/ConstructingNEEG_IJCAI_2018)
@@ -54,10 +56,13 @@ Heterogeneous Graph Neural Networks to Predict What Happen Next [[paper]](https:
 
 ### External knowledge Enhanced
 
-* ACL2019: Multi-Relational Script Learning for Discourse Relations [[paper]](https://aclanthology.org/P19-1413/) [[code]](https://github.com/doug919/multi_relational_script_learning)
-
 * AAAI2018: 
 FEEL: Featured Event Embedding Learning [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/11936)
+
+
+#### Discourse Relation
+
+* ACL2019: Multi-Relational Script Learning for Discourse Relations [[paper]](https://aclanthology.org/P19-1413/) [[code]](https://github.com/doug919/multi_relational_script_learning)
 
 * EMNLP2020: Weakly-Supervised Modeling of Contextualized Event Embedding for Discourse Relations[[paper]](https://aclanthology.org/2020.findings-emnlp.446/)[[code]](https://github.com/doug919/narrative_graph_emnlp2020)
 
@@ -84,7 +89,7 @@ Rich Event Modeling for Script Event Prediction [[paper]](https://arxiv.org/abs/
 
 
 #### Multi-task
-* SIGIR2020: Incorporating Scenario Knowledge into {A} Unified Fine-tuning Architecture for Event Representation [[paper]](https://doi.org/10.1145/3397271.3401173)
+* SIGIR2020: Incorporating Scenario Knowledge into a Unified Fine-tuning Architecture for Event Representation [[paper]](https://doi.org/10.1145/3397271.3401173)
 
 * CIKM2021: Multi-Task Self-Supervised Learning for Script Event Prediction [[paper]](https://doi.org/10.1145/3459637.3482150)
 
@@ -146,6 +151,7 @@ Rich Event Modeling for Script Event Prediction [[paper]](https://arxiv.org/abs/
 #### Multimodal Event Similarity
 * The task extends the Hard Similar Dataset to multimodal with the same procedure as described earlier for the hard similarity events dataset, resulting in 690 event triples paired with 6,900 event images.
 * The dataset is not public yes, but [the paper](https://www.aaai.org/AAAI21Papers/AAAI-6544.ZhangL.pdf) details the construction of the dataset.
+
 
 #### Cross-modal Event Retrieval
 * In this task, a randomly selected image as a query and aim to retrieve the bestmatched event triple out of a randomly-constructed event triple set.
